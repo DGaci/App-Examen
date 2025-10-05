@@ -1,0 +1,2381 @@
+[
+  {
+    "pregunta": "1. ¿Qué es una organización?",
+    "respuestas": [
+      "a) Es un conjunto de personas cuyas acciones se coordinan para conseguir un resultado común, aunque su interés pueda deberse a motivos distintos.",
+      "b) Son un conjunto de competencias personales necesarias para desarrollar las capacidades técnicas.",
+      "c) Recogen los aspectos relacionados en la capacidad técnica que demuestra un directivo.",
+      "d) Son un conjunto de competencias personales necesarias para desarrollar las capacidades individuales."
+    ],
+    "correcta": "a) Es un conjunto de personas cuyas acciones se coordinan para conseguir un resultado común, aunque su interés pueda deberse a motivos distintos."
+  },
+  {
+    "pregunta": "2. Los elementos esenciales de una organización son:",
+    "respuestas": [
+      "a) La comunicación profesional.",
+      "b) Acciones Humanas, Necesidades Humanas y una fórmula o modo de coordinar las acciones para satisfacer las necesidades.",
+      "c) Llegar a un propósito común.",
+      "d) Coordinar las actividades de forma conjunta."
+    ],
+    "correcta": "b) Acciones Humanas, Necesidades Humanas y una fórmula o modo de coordinar las acciones para satisfacer las necesidades."
+  },
+  {
+    "pregunta": "3. ¿Qué es la organización real?",
+    "respuestas": [
+      "a) Es una fórmula.",
+      "b) Es la que existe cuando un conjunto concreto de personas aplica una organización formal.",
+      "c) Intenta satisfacer las necesidades de las personas.",
+      "d) Es una forma de comunicación interpersonal."
+    ],
+    "correcta": "b) Es la que existe cuando un conjunto concreto de personas aplica una organización formal."
+  },
+  {
+    "pregunta": "4. La organización real consta de...",
+    "respuestas": [
+      "a) De un objetivo común entre todos los miembros de la organización.",
+      "b) De un sistema espontáneo.",
+      "c) La organización formal y la organización informal.",
+      "d) De diferentes puntos de vista lo que llevan a formar una organización real."
+    ],
+    "correcta": "d) De diferentes puntos de vista lo que llevan a formar una organización real."
+  },
+  {
+    "pregunta": "5. La organización formal se compone de:",
+    "respuestas": [
+      "a) Un sistema comercial.",
+      "b) Un sistema financiero.",
+      "c) Un acuerdo común",
+      "d) Un sistema productivo-distributivo y un sistema de incentivos."
+    ],
+    "correcta": "d) Un sistema productivo-distributivo y un sistema de incentivos."
+  },
+  {
+    "pregunta": "6. Las funciones o tareas esenciales de los directivos de una organización son:",
+    "respuestas": [
+      "a) Definición operacional del propósito, estructuración del propósito y puesta en práctica del propósito.",
+      "b) Dirigir y mandar.",
+      "c) Comunicar.",
+      "d) Motivar."
+    ],
+    "correcta": "a) Definición operacional del propósito, estructuración del propósito y puesta en práctica del propósito."
+  },
+  {
+    "pregunta": "7. Los procesos vitales de la organización:",
+    "respuestas": [
+      "a) Formulación.",
+      "b) Comunicación.",
+      "c) Motivación."
+    ],
+    "correcta": "a) Formulación."
+  },
+  {
+    "pregunta": "8. Las teorías o modelos para explicar las organizaciones son:",
+    "respuestas": [
+      "a) Modelo mecánico.",
+      "b) Modelo orgánico.",
+      "c) Modelo antropológico.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "correcta": "d) Todas las respuestas son correctas."
+  },
+  {
+    "pregunta": "9. ¿Qué son los modelos mecánicos o de sistema técnico?",
+    "respuestas": [
+      "a) Los modelos mecánicos son teorías que influyen en la maquinaria de la organización.",
+      "b) En un sistema técnico la organización se contempla como una simple coordinación de acciones humanas con el fin de producir y distribuir una serie de objetos y/o servicios.",
+      "c) Sólo contempla el sistema productivo – distributivo.",
+      "d) El sistema técnico apoya la logística de la organización."
+    ],
+    "correcta": "b) En un sistema técnico la organización se contempla como una simple coordinación de acciones humanas con el fin de producir y distribuir una serie de objetos y/o servicios."
+  },
+  {
+    "pregunta": "10. ¿Qué son los modelos orgánicos?",
+    "respuestas": [
+      "a) Es un modelo relacionado con el medioambiente.",
+      "b) Explica las motivaciones que actualmente sienten las personas que forman la organización.",
+      "c) Su principal objetivo es reciclar y tomar conciencia del medioambiente.",
+      "d) Ninguna respuesta es correcta."
+    ],
+    "correcta": "b) Explica las motivaciones que actualmente sienten las personas que forman la organización."
+  },
+  {
+    "pregunta": "11. Cuando se analiza la empresa dejando de lado las razones por las que una persona decide cooperar con ella cuando podría no hacerlo. ¿Qué tratan de resolver este tipo de teorías?",
+    "respuestas": [
+      "a) La relación, salario y trabajo.",
+      "b) Cómo conseguir que cada persona sepa lo que se espera de ella y sea capaz de hacerlo.",
+      "c) Cómo lograr que los trabajadores se identifiquen con la empresa.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "b) Cómo conseguir que cada persona sepa lo que se espera de ella y sea capaz de hacerlo."
+  },
+  {
+    "pregunta": "12. ¿Cuál es el objetivo del análisis de las causas por las que las personas cooperan con una empresa?",
+    "respuestas": [
+      "a) Comunicar las acciones individuales para el logro de la acción conjunta.",
+      "b) Planificar la acción por separado.",
+      "c) Tener en cuenta el individualismo de los trabajadores como algo determinante.",
+      "d) Motivar el desempeño de las tareas del líder de cada grupo."
+    ],
+    "correcta": "a) Comunicar las acciones individuales para el logro de la acción conjunta."
+  },
+  {
+    "pregunta": "13. ¿Qué aspectos pueden motivar al trabajador?",
+    "respuestas": [
+      "a) El único aspecto que puede motivar al trabajador es el que hace referencia al sueldo.",
+      "b) Reconocimiento de los éxitos de trabajador.",
+      "c) Ser el mejor del sector.",
+      "d) La competencia entre trabajadores, ya que genera un alto grado de autosuperación."
+    ],
+    "correcta": "b) Reconocimiento de los éxitos de trabajador."
+  },
+  {
+    "pregunta": "14. Según las teorías de Maslow, cuando hablamos necesidades podemos distinguir diferentes tipos. Señale un tipo:",
+    "respuestas": [
+      "a) Filosóficos.",
+      "b) Culturales.",
+      "c) Autodeterminación."
+    ],
+    "correcta": "c) Autodeterminación."
+  },
+  {
+    "pregunta": "15. Defina “categorización abierta”:",
+    "respuestas": [
+      "a) Maslow dice que este modelo es muy importante para el buen funcionamiento de las empresas.",
+      "b) Explica la aparición de la motivación de las personas.",
+      "c) Es una teoría que está conectada con una concepción del ser humano.",
+      "d) El propio Maslow reconoce las limitaciones de este modelo ya que no se explica bien la aparición de la motivación de las personas."
+    ],
+    "correcta": "c) Es una teoría que está conectada con una concepción del ser humano."
+  },
+  {
+    "pregunta": "16. ¿Qué es la teoría X y Teoría Y (McGregor)?",
+    "respuestas": [
+      "a) Corresponde con los niveles de Maslow: autoestima, autorrealización.",
+      "b) Se trata de la teoría de la Dirección de los seres humanos.",
+      "c) Se trata de una teoría en el campo de la empresa donde se distinguen dos tipos de factores: Factores de higiene y motivadores.",
+      "d) Satisfacen necesidades de jerarquía superior."
+    ],
+    "correcta": "b) Se trata de la teoría de la Dirección de los seres humanos."
+  },
+  {
+    "pregunta": "17. Defina motivos transcendentes...",
+    "respuestas": [
+      "a) Aspectos de la realidad que determinan el logro de satisfacciones a consecuencia de la interacción.",
+      "b) Aspectos de la realidad que determinan el logro de aprendizajes del propio decisor.",
+      "c) Aspectos de la realidad que determinan el logro de aprendizaje de las otras personas con las que interacciona, podemos encontrar ejemplos como: amor, solidaridad, compasión.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "c) Aspectos de la realidad que determinan el logro de aprendizaje de las otras personas con las que interacciona, podemos encontrar ejemplos como: amor, solidaridad, compasión."
+  },
+  {
+    "pregunta": "18. La motivación...",
+    "respuestas": [
+      "a) Es la calidad motivacional de una persona según la sensibilidad para cada uno de los motivos.",
+      "b) No se puede confundir los motivos con motivación y con la formación el impulso motivacional del decisor. Los motivos son la causa.",
+      "c) Se trata del valor real de una acción, según el valor de cada uno de los resultados; pero, no de uno sólo de ellos.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "b) No se puede confundir los motivos con motivación y con la formación el impulso motivacional del decisor. Los motivos son la causa."
+  },
+  {
+    "pregunta": "19. La empresa tiene interés a motivar a sus trabajadores...",
+    "respuestas": [
+      "a) Para aumentar la productividad.",
+      "b) Satisfacción por motivos extrínsecos, intrínsecos y por motivos trascendentes.",
+      "c) Satisfacer a los trabajadores a nivel personal.",
+      "d) Estos intereses son siempre motivos trascendentales."
+    ],
+    "correcta": "b) Satisfacción por motivos extrínsecos, intrínsecos y por motivos trascendentes."
+  },
+  {
+    "pregunta": "20. El equipo...",
+    "respuestas": [
+      "a) No es importante en una empresa.",
+      "b) Es importante, pero dependerá siempre del logro individual.",
+      "c) Es muy importante en una empresa tener en cuenta los factores externos como internos que pueden influir en el funcionamiento del equipo de trabajo.",
+      "d) Depende siempre de su líder, en China por ejemplo priorizan el logro individual al colectivo, ya que lo más importante en un equipo, es tener un líder que marque el camino."
+    ],
+    "correcta": "c) Es muy importante en una empresa tener en cuenta los factores externos como internos que pueden influir en el funcionamiento del equipo de trabajo."
+  },
+  {
+    "pregunta": "21. ¿Qué se les plantea a las empresas de forma genérica?",
+    "respuestas": [
+      "a) Qué bienes producir.",
+      "b) Cómo producirlos.",
+      "c) Para quién producirlos.",
+      "d) Las respuestas a, b, y c son correctas."
+    ],
+    "correcta": "d) Las respuestas a, b, y c son correctas."
+  },
+  {
+    "pregunta": "22. ¿Qué entiendes por corriente real?",
+    "respuestas": [
+      "a) Productos y factores.",
+      "b) Inputs.",
+      "c) Outputs.",
+      "d) Importe de los productos y retribución de los factores."
+    ],
+    "correcta": "a) Productos y factores."
+  },
+  {
+    "pregunta": "23. La empresa es...",
+    "respuestas": [
+      "a) El conjunto de condiciones sociales y culturales.",
+      "b) Un medio exterior.",
+      "c) Un sistema abierto ya que interactúa con su entorno.",
+      "d) Ninguna de las anteriores."
+    ],
+    "correcta": "c) Un sistema abierto ya que interactúa con su entorno."
+  },
+  {
+    "pregunta": "24. ¿Qué aspectos del entorno afectan a las empresas?",
+    "respuestas": [
+      "a) La internacionalización.",
+      "b) La disminución de la competencia internacional.",
+      "c) La internacionalización no afecta a las PYMES.",
+      "d) El entorno es cada vez mas simple, por este motivo los aspectos del entorno afectan muy poco a las empresas."
+    ],
+    "correcta": "a) La internacionalización."
+  },
+  {
+    "pregunta": "25. ¿Qué es el entorno genérico o general?",
+    "respuestas": [
+      "a) Está formado por todos aquellos elementos que afectan a todas las empresas situadas en un mismo espacio geográfico y existente en un mismo período de tiempo.",
+      "b) Está constituido por aquellos elementos o factores que afectan de una forma específica a una o varias empresas",
+      "c) Es el constituido por la rama de actividad o sector al que pertenece y en el que compite la empresa.",
+      "d) Afecta a todas las empresas por este motivo se dice entorno genérico o general."
+    ],
+    "correcta": "a) Está formado por todos aquellos elementos que afectan a todas las empresas situadas en un mismo espacio geográfico y existente en un mismo período de tiempo."
+  },
+  {
+    "pregunta": "26. ¿Cuál de los siguientes elementos es Político?",
+    "respuestas": [
+      "a) Carácter rural o urbano de la población",
+      "b) Grado de alfabetización",
+      "c) Proporción de personas con alto nivel de especialización profesional",
+      "d) Pluralidad y funcionamiento de partidos"
+    ],
+    "correcta": "d) Pluralidad y funcionamiento de partidos"
+  },
+  {
+    "pregunta": "27. ¿Cuál de los siguientes elementos económicos no es de carácter permanente?",
+    "respuestas": [
+      "a) Tipo de sistema económico",
+      "b) Disponibilidad del factor trabajo",
+      "c) Nivel de salarios",
+      "d) Estado del comercio exterior7"
+    ],
+    "correcta": "d) Estado del comercio exterior7"
+  },
+  {
+    "pregunta": "28. Un modo de empezar a hacer explícita la misión es...",
+    "respuestas": [
+      "a) Tiene una orientación externa y orientada al mercado y debería expresar cómo desea a la organización ser percibida por el resto del mundo",
+      "b) El de contestar a preguntas como las siguientes: ¿Para qué existe nuestra institución? ¿En qué negocio estamos?",
+      "c) Es una propuesta concisa que define los objetivos a medio y largo plazo de la organización",
+      "d) La misión es importante solo en el inicio de una empresa."
+    ],
+    "correcta": "b) El de contestar a preguntas como las siguientes: ¿Para qué existe nuestra institución? ¿En qué negocio estamos?"
+  },
+  {
+    "pregunta": "29. ¿Cuál de las siguientes afirmaciones es falsa?",
+    "respuestas": [
+      "a) La definición de la misión ha de quedar escrita",
+      "b) La misión habrá de ser motivante",
+      "c) La definición ha de ser válida para periodos largos de tiempo",
+      "d) Una definición estrecha podría ampliar la organización de las actividades futuras de la institución."
+    ],
+    "correcta": "d) Una definición estrecha podría ampliar la organización de las actividades futuras de la institución."
+  },
+  {
+    "pregunta": "30. La misión del negocio es el punto de partida de la formulación de la estrategia. ¿En qué se debe centrar?",
+    "respuestas": [
+      "a) Detectar los cambios que deben emprenderse en el alcance y las competencias esenciales del negocio;",
+      "b) Identificar los desafíos resultantes que surgen de dichos cambios",
+      "c) Alcanzar el consenso que debe crearse en cuanto a la orientación del negocio",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "31. Una empresa obtiene la ventaja competitiva, desempeñando estas actividades estratégicamente:",
+    "respuestas": [
+      "a) El diseño del envase.",
+      "b) Las compras.",
+      "c) Las numerosas actividades de soporte necesarias para lograr el funcionamiento adecuado de la empresa.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "c) Las numerosas actividades de soporte necesarias para lograr el funcionamiento adecuado de la empresa."
+  },
+  {
+    "pregunta": "32. ¿Qué componentes forma parte de la cadena de valores?",
+    "respuestas": [
+      "a) Infraestructura de la empresa.",
+      "b) Recursos Humanos y compras.",
+      "c) Investigación y Desarrollo.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "33. Las actividades de valor son:",
+    "respuestas": [
+      "a) Los elementos específicos sobre los que desarrolla la ventaja competitiva.",
+      "b) El precio final del producto, dependiendo del margen de beneficio de cada empresa.",
+      "c) Todos los elementos relacionados con la ventaja sobre el coste unitario.",
+      "d) Muy poco importantes para una empresa."
+    ],
+    "correcta": "a) Los elementos específicos sobre los que desarrolla la ventaja competitiva."
+  },
+  {
+    "pregunta": "34. La categoría genérica de actividad primaria de operaciones es:",
+    "respuestas": [
+      "a) Recepción, almacenamiento, manejo de materiales, depósito, control de inventario, programación de vehículos y devolución a proveedores.",
+      "b) Transformación de insumos en productos finales.",
+      "c) Distribución del producto terminado.",
+      "d) Mantener o mejorar el valor del producto después de la venta."
+    ],
+    "correcta": "b) Transformación de insumos en productos finales."
+  },
+  {
+    "pregunta": "35. Las actividades de apoyo pueden dividirse en cuatro categorías genéricas, ¿cuál de las siguientes frases tiene relación con la gestión de recursos humanos?",
+    "respuestas": [
+      "a) Saber hacer, procedimientos, e insumos tecnológicos necesarios en toda actividad de la cadena de valor",
+      "b) La compra de materias primas, suministros y otros artículos de consumo y bienes.",
+      "c) Dirección General, planificación, finanzas, contabilidad, asuntos legales y gubernamentales, y gestión de la calidad.",
+      "d) Selección, promoción, evaluación, remuneración, desarrollo profesional, y las relaciones sindicato/empresa."
+    ],
+    "correcta": "d) Selección, promoción, evaluación, remuneración, desarrollo profesional, y las relaciones sindicato/empresa."
+  },
+  {
+    "pregunta": "36. Marca la definición de tipo de actividades directas:",
+    "respuestas": [
+      "a) Son actividades que aseguran la calidad de las otras actividades.",
+      "b) Estas actividades hacen posible el que se puedan desempeñar las actividades directas de forma continuada.",
+      "c) Son las actividades directamente implicadas en la creación del valor para el comprador.",
+      "d) Representan una parte importante y creciente de los costes."
+    ],
+    "correcta": "c) Son las actividades directamente implicadas en la creación del valor para el comprador."
+  },
+  {
+    "pregunta": "37. Las interacciones dentro de la cadena de valor...",
+    "respuestas": [
+      "a) Son cruciales para la ventaja competitiva.",
+      "b) Son sutiles.",
+      "c) Pasan desapercibidas.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "a) Son cruciales para la ventaja competitiva."
+  },
+  {
+    "pregunta": "38. ¿En qué consiste seleccionar el alcance del segmento?",
+    "respuestas": [
+      "a) Toda empresa debe decidir si quiere especializarse en un segmento, o competir en varios de ellos.",
+      "b) En poder identificar los factores críticos para el éxito en cada uno de ellos.",
+      "c) Consiste en aplicar el modelo de competencia de las Cinco Fuerzas de Porter."
+    ],
+    "correcta": "a) Toda empresa debe decidir si quiere especializarse en un segmento, o competir en varios de ellos."
+  },
+  {
+    "pregunta": "39. Define el modelo de las Cinco fuerzas:",
+    "respuestas": [
+      "a) Considera que todas las empresas participantes en un mismo sector forman parte de un único grupo.",
+      "b) Sirve para conocer en profundidad las características estructurales que determinan la competencia en un sector.",
+      "c) Es un modelo dinámico, al tener las empresas un comportamiento homogéneo.",
+      "d) Es el modelo que hace denotar la diferencia entre las distintas empresas, ya que dichas empresas tienen la misma manera de competir."
+    ],
+    "correcta": "b) Sirve para conocer en profundidad las características estructurales que determinan la competencia en un sector."
+  },
+  {
+    "pregunta": "40. ¿Cuáles son las dos dimensiones más utilizadas para la elaboración de un mapa estratégico??",
+    "respuestas": [
+      "a) La amplitud de la línea de productos que ofrece la empresa y el grado de integración vertical.",
+      "b) Sus productos y la calidad.",
+      "c) La gama del producto y las Cinco fuerzas.",
+      "d) Las cinco fuerzas y los productos."
+    ],
+    "correcta": "a) La amplitud de la línea de productos que ofrece la empresa y el grado de integración vertical."
+  },
+  {
+    "pregunta": "41. En la competencia perfecta hay...",
+    "respuestas": [
+      "a) Pocas empresas",
+      "b) Muchas empresas",
+      "c) No importa las empresas que hayan",
+      "d) Dos empresas"
+    ],
+    "correcta": "b) Muchas empresas"
+  },
+  {
+    "pregunta": "42. En el monopolio...",
+    "respuestas": [
+      "a) No hay barreras"
+    ],
+    "correcta": "a) No hay barreras"
+  },
+  {
+    "pregunta": "43. ¿Qué hemos de hacer antes de decidir la posición competitiva de una empresa?",
+    "respuestas": [
+      "a) Conocer y evaluar el sector en el que se debe operar",
+      "b) Tener mucha calidad en el producto que queremos comercializar.",
+      "c) Evaluar nuestros activos",
+      "d) Hemos de realizar un estudio previo para determinar lo que puede ocurrir en el corto plazo."
+    ],
+    "correcta": "a) Conocer y evaluar el sector en el que se debe operar"
+  },
+  {
+    "pregunta": "44. Marca la respuesta que no pertenezca a las cinco fuerzas que conforman la estructura del sector económico.",
+    "respuestas": [
+      "a) La intensidad de la rivalidad entre los competidores que operan en el sector",
+      "b) La amenaza de productos sustitutivos",
+      "c) No hay rivalidad entre los competidores cuando nos encontramos en esta situación.",
+      "d) El poder de negociación de los compradores"
+    ],
+    "correcta": "c) No hay rivalidad entre los competidores cuando nos encontramos en esta situación."
+  },
+  {
+    "pregunta": "45. ¿De que modo pueden tener poder los compradores?",
+    "respuestas": [
+      "a) Depende del numero de compradores importantes y de la rentabilidad",
+      "b) Dependiendo de los costes totales del sector contribuido por los proveedores.",
+      "c) Por la diferenciación",
+      "d) Todas las anteriores son correctas"
+    ],
+    "correcta": "a) Depende del numero de compradores importantes y de la rentabilidad"
+  },
+  {
+    "pregunta": "46. ¿Qué tipo de rivalidad puede existir entre los competidores?",
+    "respuestas": [
+      "a) En una situación de oligopolio nunca hay rivalidad.",
+      "b) Si decrece el sector.",
+      "c) Costes de cambio del usuario.",
+      "d) La rivalidad que exista entre los distintos competidores será siempre consecuencia de una mala gestión empresarial, ya que las empresas tienden a monopolizar el mercado."
+    ],
+    "correcta": "c) Costes de cambio del usuario."
+  },
+  {
+    "pregunta": "47. ¿Qué pasa cuando un sector es dinámico?",
+    "respuestas": [
+      "a) Crece a un ritmo inferior a la media.",
+      "b) Suele presentar buenas oportunidades para el desarrollo de todos los participantes.",
+      "c) Tiende a estancarse.",
+      "d) Crece a un ritmo demasiado rápido, y la empresa no puede sustentar la situación."
+    ],
+    "correcta": "b) Suele presentar buenas oportunidades para el desarrollo de todos los participantes."
+  },
+  {
+    "pregunta": "48. En la diferenciación del producto...",
+    "respuestas": [
+      "a) la marca no es importante.",
+      "b) no es necesario invertir mucho en publicidad.",
+      "c) En esta situación si queremos promocionar el producto es importante previamente realizar economías de escala.",
+      "d) Los nuevos entrantes deben gastar unas cantidades desproporcionadamente elevadas en publicidad y promoción."
+    ],
+    "correcta": "d) Los nuevos entrantes deben gastar unas cantidades desproporcionadamente elevadas en publicidad y promoción."
+  },
+  {
+    "pregunta": "49. ¿Qué factor contribuye al poder de negociación de los proveedores?",
+    "respuestas": [
+      "a) Número de proveedores importantes.",
+      "b) Disponibilidad de sustitutos para los productos de los proveedores.",
+      "c) Diferenciación o costes de cambio de los productos de los proveedores.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "50. Indique el poder de negociación que no sea de los compradores:",
+    "respuestas": [
+      "a) Importancia del sector para los beneficios de los proveedores.",
+      "b) Amenaza de los compradores de integración hacia atrás.",
+      "c) Costes de cambio de los compradores.",
+      "d) Disponibilidad de sustitutos para los productos del sector."
+    ],
+    "correcta": "a) Importancia del sector para los beneficios de los proveedores."
+  },
+  {
+    "pregunta": "51. ¿De qué se ocupa el diseño organizativo?",
+    "respuestas": [
+      "a) De la concepción y cambio de la estructura de una organización.",
+      "b) De distribuir los distintos puestos de trabajo.",
+      "c) De repartir las tareas.",
+      "d) Todas las anteriores son falsas."
+    ],
+    "correcta": "a) De la concepción y cambio de la estructura de una organización."
+  },
+  {
+    "pregunta": "52. Mencione una de las etapas del proceso de dirección:",
+    "respuestas": [
+      "a) Tener presente y contentos a todos los empleados.",
+      "b) La organización de la actividad de la empresa.",
+      "c) La etapa de maduración.",
+      "d) Planificar la estrategia, y tener presente en todo momento a nuestro máximo competidor, para poder así aprender de sus errores y dirigir en función de las etapas previstas."
+    ],
+    "correcta": "b) La organización de la actividad de la empresa."
+  },
+  {
+    "pregunta": "53. ¿Cuáles son los principales objetivos de una organización?",
+    "respuestas": [
+      "a) Establecer líneas de autoridad y responsabilidad.",
+      "b) Establecer procedimientos para alcanzar los objetivos de la organización.",
+      "c) Suministrar una estructura organizativa que permita definir las funciones de los puestos de trabajo, describirlos y determinar las relaciones entre ellos.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "54. Relacione los niveles de alta dirección:",
+    "respuestas": [
+      "a) Desarrollo de programas.",
+      "b) Ejecución.",
+      "c) Ejecución y control de la planificación.",
+      "d) Funciones estratégicas."
+    ],
+    "correcta": "d) Funciones estratégicas."
+  },
+  {
+    "pregunta": "55. ¿Cual de las siguientes es un principio de diseño organizativo?",
+    "respuestas": [
+      "a) El vertical.",
+      "b) El horizontal.",
+      "c) De equilibrio interno.",
+      "d) Todas las anteriores."
+    ],
+    "correcta": "c) De equilibrio interno."
+  },
+  {
+    "pregunta": "56. ¿Qué es un organigrama?",
+    "respuestas": [
+      "a) Una descripción total de la organización",
+      "b) Un conjunto de elementos iguales"
+    ],
+    "correcta": "a) Una descripción total de la organización"
+  },
+  {
+    "pregunta": "57. El modelo lineal...",
+    "respuestas": [
+      "a) Se caracteriza por una existencia de una única línea directa de autoridad que va desde el más alto hasta el más bajo nivel de jerarquía.",
+      "b) Se caracteriza por la existencia de especialistas.",
+      "c) Se refuerza mediante staffs, u órganos consultivos, guiados por el principio de especialización.",
+      "d) Es la que resulta de la agrupación de tareas o puestos de trabajo en unidades u órganos de encuadramiento."
+    ],
+    "correcta": "a) Se caracteriza por una existencia de una única línea directa de autoridad que va desde el más alto hasta el más bajo nivel de jerarquía."
+  },
+  {
+    "pregunta": "58. Indica la descripción del organigrama divisional por productos:",
+    "respuestas": [
+      "a) Pone el énfasis en los productos de la empresa.",
+      "b) Es frecuente en departamentos de marketing.",
+      "c) Pone el énfasis en las distintas áreas geográficas en las que la empresa actúa.",
+      "d) Modelo complejo, propio de grandes empresas donde la dirección, como coordinación, es un aspecto básico."
+    ],
+    "correcta": "a) Pone el énfasis en los productos de la empresa."
+  },
+  {
+    "pregunta": "59. ¿Qué ventaja tiene el modelo matricial?",
+    "respuestas": [
+      "a) Propenso a crear confusión si no se equilibran bien los objetivos y el peso de cada dimensión.",
+      "b) Crea un clima de autosuperación individual al ser poco flexible.",
+      "c) Luchar de poder entre directivos.",
+      "d) Es flexible."
+    ],
+    "correcta": "d) Es flexible."
+  },
+  {
+    "pregunta": "60. El establecimiento del tipo de estructura, depende de diversos condicionantes. ¿Cuál de los siguientes es de carácter interno?",
+    "respuestas": [
+      "a) La dimensión de la empresa.",
+      "b) el deseo de asegurar la disciplina o de conseguir agilidad y flexibilidad en el ambiente.",
+      "c) La tecnología: o la complejidad de sus procesos.",
+      "d) la estrategia de la empresa."
+    ],
+    "correcta": "b) el deseo de asegurar la disciplina o de conseguir agilidad y flexibilidad en el ambiente."
+  },
+  {
+    "pregunta": "61. Qué es la empresa?",
+    "respuestas": [
+      "a) Una organización de personas.",
+      "b) Es la organización que permite obtener beneficios.",
+      "c) Es el activo de un país.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "a) Una organización de personas."
+  },
+  {
+    "pregunta": "62. ¿Por qué esta compuesto el subsistema de las funciones básicas?",
+    "respuestas": [
+      "a) Operaciones.",
+      "b) Inversión/Financiación.",
+      "c) Comercial.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "63. El subsistema de operaciones...",
+    "respuestas": [
+      "a) Es donde los operadores realizan sus tareas.",
+      "b) Se ocupa de la producción de los bienes y servicios que habrán de satisfacer las necesidades detectadas por la función comercial.",
+      "c) Determina las metas a corto plazo.",
+      "d) No es imprescindible para una empresa."
+    ],
+    "correcta": "a) Es donde los operadores realizan sus tareas."
+  },
+  {
+    "pregunta": "64. ¿Qué es necesario en la función de producción para conseguir las metas previstas?",
+    "respuestas": [
+      "a) Concreción de los objetivos de largo plazo, nunca de medio ni de corto plazo.",
+      "b) La planificación no es importante en una empresa, ya que en muchas ocasiones es una perdida de tiempo, ya que se debe actuar de inmediato y no con previa previsión.",
+      "c) Determinando qué elementos o componentes se han de adquirir o producir y en que fechas, para cumplir con el plan establecido, es decir la programación.",
+      "d) Saber el número de trabajadores que disponemos y conseguir su máxima implicación."
+    ],
+    "correcta": "c) Determinando qué elementos o componentes se han de adquirir o producir y en que fechas, para cumplir con el plan establecido, es decir la programación."
+  },
+  {
+    "pregunta": "65. ¿Qué denominación puede tener el ciclo corto?",
+    "respuestas": [
+      "a) Ciclo de dinero-clientes-dinero.",
+      "b) Ciclo de explotación.",
+      "c) Ciclo de expansión.",
+      "d) Ciclo de madurez."
+    ],
+    "correcta": "a) Ciclo de dinero-clientes-dinero."
+  },
+  {
+    "pregunta": "66. Marque la respuesta correcta:",
+    "respuestas": [
+      "a) A raíz de la función de ventas no es posible comparar diferentes productos.",
+      "b) Si la venta se realiza al contado, la empresa tardara 1 año como mínimo en ingresar dicha cantidad.",
+      "c) La función de ventas no tiene relación en la comercialización, pero sí que es determinante en el precio final.",
+      "d) la función de ventas incluye todas las tareas de comercialización de los productos en el mercado."
+    ],
+    "correcta": "d) la función de ventas incluye todas las tareas de comercialización de los productos en el mercado."
+  },
+  {
+    "pregunta": "67. ¿Qué es el (PMe)?",
+    "respuestas": [
+      "a) es el en este tiempo que, por término medio, tardan en venderse los productos acabados.",
+      "b) Es el tiempo que, por término medio, tardan en consumir-se las materias primas.",
+      "c) es en este tiempo que, por término medio, tardan en cobrarse a los clientes.",
+      "d) Es el tiempo que, por término medio, tardan en fabricarse en los productos."
+    ],
+    "correcta": "a) es el en este tiempo que, por término medio, tardan en venderse los productos acabados."
+  },
+  {
+    "pregunta": "68. Marque la descripción de Período medio de almacenamiento:",
+    "respuestas": [
+      "a) Adquisición de factores de producción.",
+      "b) Cobro de los clientes.",
+      "c) Procesos productivos.",
+      "d) Venta de los productos acabados."
+    ],
+    "correcta": "a) Adquisición de factores de producción."
+  },
+  {
+    "pregunta": "69. ¿Qué significa PMp= 365/np?",
+    "respuestas": [
+      "a) Número de veces que al año se remueva la deuda mantenida con los proveedores.",
+      "b) Número de días que en media se tarda en pagar las deudas a los proveedores.",
+      "c) Son los días que tarda en cobrar la deuda el cliente.",
+      "d) Son las veces al año que se renueva el crédito a clientes."
+    ],
+    "correcta": "b) Número de días que en media se tarda en pagar las deudas a los proveedores."
+  },
+  {
+    "pregunta": "70. ¿Por qué está compuesto el periodo de Maduración financiero (PMF)?",
+    "respuestas": [
+      "a) PMC."
+    ],
+    "correcta": "a) PMC."
+  },
+  {
+    "pregunta": "71. Los objetivos a alcanzar por el subsistema de operaciones de una empresa se suelen concretar en los siguientes aspectos:",
+    "respuestas": [
+      "a) El producto y el envase.",
+      "b) El coste, la entrega, la flexibilidad, la calidad y el servicio a cliente.",
+      "c) El producto, la calidad y el just in time.",
+      "d) El producto."
+    ],
+    "correcta": "b) El coste, la entrega, la flexibilidad, la calidad y el servicio a cliente."
+  },
+  {
+    "pregunta": "72. ¿Se pueden disminuir los costes sin tener que disminuir la calidad del producto?",
+    "respuestas": [
+      "a) No se puede.",
+      "b) Si aumentamos la mano de obra sí que podremos reducir costes, obteniendo así, la misma o mejor calidad.",
+      "c) Sí, por ejemplo si reducimos la mano de obra, y si realizamos inversiones que sirvan para mejorar la tecnología de producción empleada y permitan obtener economías de escala o de economías de alcance.",
+      "d) Es imposible."
+    ],
+    "correcta": "c) Sí, por ejemplo si reducimos la mano de obra, y si realizamos inversiones que sirvan para mejorar la tecnología de producción empleada y permitan obtener economías de escala o de economías de alcance."
+  },
+  {
+    "pregunta": "73. Los costes fijos...",
+    "respuestas": [
+      "a) Son el equivalente monetario de todos los factores consumidos en el proceso de fabricación.",
+      "b) Son los que no varían con la cantidad de unidades producidas (Q).",
+      "c) Siguen una función creciente de ésta, CF (Q), que podrá adoptar diferentes formas según el caso concreto.",
+      "d) CF (Q) = CT + CV (Q)."
+    ],
+    "correcta": "b) Son los que no varían con la cantidad de unidades producidas (Q)."
+  },
+  {
+    "pregunta": "74. Define el coste unitario.",
+    "respuestas": [
+      "a) Son aquellos que pueden calcularse e imputase a un producto concreto (por ejemplo: la materia prima o la mano de obra).",
+      "b) Es la variación producida en el CT como consecuencia de aumentar la unidad producida en una unidad.",
+      "c) Es el coste de unidad de producto, resultado de dividir el coste correspondiente a un cierto volumen de producción por dicho volumen.",
+      "d) Afectan a varios productos a la vez, y es preciso, por tanto, utilizar algún criterio para su reparto (por ejemplo: el sueldo del Director)."
+    ],
+    "correcta": "c) Es el coste de unidad de producto, resultado de dividir el coste correspondiente a un cierto volumen de producción por dicho volumen."
+  },
+  {
+    "pregunta": "75. ¿Cuáles son los costes históricos?",
+    "respuestas": [
+      "a) Los que se determinan en función del precio de adquisición que se pagó por el producto o servicio consumido.",
+      "b) Los que se establecen en función de consumos predeterminados a un precio establecido a priori.",
+      "c) Son los causados por una utilización de las instalaciones por debajo de si capacidad productiva.",
+      "d) Son provocados por el hecho de tener que producir por encima de la capacidad."
+    ],
+    "correcta": "a) Los que se determinan en función del precio de adquisición que se pagó por el producto o servicio consumido."
+  },
+  {
+    "pregunta": "76. ¿Cuál de los siguientes costes es de infrautilización o subempleo?",
+    "respuestas": [
+      "a) Son los que afectan a varios productos a la vez, y es preciso, por tanto, utilizar algún criterio para su reparto",
+      "b) Son provocados por el hecho de tener que producir por encima de la capacidad instalada.",
+      "c) Son los causados por una utilización de las instalaciones por debajo de si capacidad productiva."
+    ],
+    "correcta": "c) Son los causados por una utilización de las instalaciones por debajo de si capacidad productiva."
+  },
+  {
+    "pregunta": "77. Sabiendo que la productividad está orientada a la medida, su numerador y denominador deben poder ser expresados numéricamente. ¿Qué problemas podemos encontrarnos?",
+    "respuestas": [
+      "a) Imputación o determinación de cómo los distintos factores contribuyen a la obtención del producto.",
+      "b) Medida o elección del tipo de unidades a utilizar en el cálculo",
+      "c) Formulación de la relación a emplear, según el objetivo que se busque.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "78. ¿Qué factores pueden influir en la productividad?",
+    "respuestas": [
+      "a) Los materiales, la mano de obra y el equipo",
+      "b) El beneficio",
+      "c) El tiempo de fabricación.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "a) Los materiales, la mano de obra y el equipo"
+  },
+  {
+    "pregunta": "79. En los productos defectuosos identificados, marca el que sea un coste tangible.",
+    "respuestas": [
+      "a) Disgusto de clientes por los retrasos",
+      "b) Coste del material, de la mano de obra y generales (menos los ingresos producidos por la venta de esos residuos)",
+      "c) Reducción de la autoestima",
+      "d) Pérdidas en la producción"
+    ],
+    "correcta": "b) Coste del material, de la mano de obra y generales (menos los ingresos producidos por la venta de esos residuos)"
+  },
+  {
+    "pregunta": "80. Define la flexibilidad en la maquinaria.",
+    "respuestas": [
+      "a) Vienen determinados por la introducción de nuevas tecnologías de proceso",
+      "b) El origen de la variabilidad está motivado por las averías, actividades de mantenimiento o preparación de los equipos",
+      "c) Variedad de operaciones que pueden desempeñar una máquina al pasar de una operación a otra sin incurrir en altos costes o un tiempo excesivo",
+      "d) Habilidad para operar económicamente con diferentes niveles de output."
+    ],
+    "correcta": "c) Variedad de operaciones que pueden desempeñar una máquina al pasar de una operación a otra sin incurrir en altos costes o un tiempo excesivo"
+  },
+  {
+    "pregunta": "81. ¿Qué finalidad tiene la función de producción?",
+    "respuestas": [
+      "a) Dar puestos de trabajo.",
+      "b) La fabricación de los productos o servicios de la empresa.",
+      "c) Trabajar en equipo.",
+      "d) No tiene ninguna finalidad."
+    ],
+    "correcta": "b) La fabricación de los productos o servicios de la empresa."
+  },
+  {
+    "pregunta": "82. ¿Por qué están compuestos los Inputs?",
+    "respuestas": [
+      "a) Materiales, Mano de Obra, Capital , Energía, Información, Tecnología.",
+      "b) Por productos.",
+      "c) De servicios.",
+      "d) De materiales muy complejos."
+    ],
+    "correcta": "a) Materiales, Mano de Obra, Capital , Energía, Información, Tecnología."
+  },
+  {
+    "pregunta": "83. ¿De qué forman los outputs?",
+    "respuestas": [
+      "a) De materiales muy complejos.",
+      "b) Productos y servicios.",
+      "c) De mano de obra poco cualificada."
+    ],
+    "correcta": "b) Productos y servicios."
+  },
+  {
+    "pregunta": "84. ¿Qué son los outputs?",
+    "respuestas": [
+      "a) Las entradas de los productos.",
+      "b) Las entradas del proceso.",
+      "c) Productos o resultados del proceso.",
+      "d) La maquinaria."
+    ],
+    "correcta": "c) Productos o resultados del proceso."
+  },
+  {
+    "pregunta": "85. ¿Qué son las tareas?",
+    "respuestas": [
+      "a) Son las maquinas de la empresa.",
+      "b) es cualquier realidad por los trabajadores o máquinas sobre las materias primas.",
+      "c) Son entendidas en términos económicos como el esfuerzo de los directivos en la creación del nuevo producto.",
+      "d) Los inputs."
+    ],
+    "correcta": "b) es cualquier realidad por los trabajadores o máquinas sobre las materias primas."
+  },
+  {
+    "pregunta": "86. ¿Qué tipo de flujos podemos encontrarnos?",
+    "respuestas": [
+      "a) Inputs.",
+      "b) Outputs.",
+      "c) Organizativos.",
+      "d) De bienes y de información."
+    ],
+    "correcta": "d) De bienes y de información."
+  },
+  {
+    "pregunta": "87. Defina el flujo de información:",
+    "respuestas": [
+      "a) Es la robótica de una empresa.",
+      "b) Es tecnología.",
+      "c) Es un complemento que aparece en el proceso de transformación de un bien o servicio.",
+      "d) Son todos los sistemas informáticos de la empresa."
+    ],
+    "correcta": "c) Es un complemento que aparece en el proceso de transformación de un bien o servicio."
+  },
+  {
+    "pregunta": "88. ¿Qué condiciones podemos encontrar en el entorno genérico?",
+    "respuestas": [
+      "a) Las medioambientales.",
+      "b) Las condiciones factoriales.",
+      "c) Las administrativas.",
+      "d) Las condiciones político-legales, económicas, sociales y tecnológicas, que peden influir en los inputs, productos o procesos de transformación."
+    ],
+    "correcta": "d) Las condiciones político-legales, económicas, sociales y tecnológicas, que peden influir en los inputs, productos o procesos de transformación."
+  },
+  {
+    "pregunta": "89. ¿Cómo se obtienen los costes Totales?",
+    "respuestas": [
+      "a) CT =CV – CF",
+      "b) CT=Cu – CF",
+      "c) Sumando los Costes unitarios (Cu) a los Costes Variables.",
+      "d) CT= Costes variables + Costes fijos."
+    ],
+    "correcta": "d) CT= Costes variables + Costes fijos."
+  },
+  {
+    "pregunta": "90. ¿Qué es el apalancamiento operativo?",
+    "respuestas": [
+      "a) Una medida del riesgo económico de la empresa.",
+      "b) Es cuando la empresa se relaja.",
+      "c) La empresa se encuentra en una situación crítica.",
+      "d) Normalmente en esta situación la empresa se encuentra en la etapa de expansión."
+    ],
+    "correcta": "a) Una medida del riesgo económico de la empresa."
+  },
+  {
+    "pregunta": "91. Durante la fase de diseño de un bien o servicio...",
+    "respuestas": [
+      "a) Se entra en cómo organizar el proceso de transformación para producirlo.",
+      "b) Se desarrollan las características funcionales de los productos.",
+      "c) La empresa se encuentra en situación de declive.",
+      "d) Los trabajadores deberán aumentar su jornada laboral."
+    ],
+    "correcta": "b) Se desarrollan las características funcionales de los productos."
+  },
+  {
+    "pregunta": "92. ¿Por qué se caracteriza la etapa de fluidez?",
+    "respuestas": [
+      "a) por no tener ventaja competitiva de la empresa.",
+      "b) En el sistema de producción se emplean herramientas y máquinas de tipo específico.",
+      "c) Beneficios > 0",
+      "d) Aunque los costes de producción son altos, se puede vender el producto a un precio elevado ya que prácticamente no existirán competidores."
+    ],
+    "correcta": "d) Aunque los costes de producción son altos, se puede vender el producto a un precio elevado ya que prácticamente no existirán competidores."
+  },
+  {
+    "pregunta": "93. ¿Qué ocurre en la etapa de transición?",
+    "respuestas": [
+      "a) Aparece la automatización de los procesos y la expansión de los mercados a través de la extensión de la línea de productos.",
+      "b) El mercado no esta definido.",
+      "c) se introducen en el mercado las pequeñas empresas.",
+      "d) la organización tiende a eliminar la burocratización."
+    ],
+    "correcta": "a) Aparece la automatización de los procesos y la expansión de los mercados a través de la extensión de la línea de productos."
+  },
+  {
+    "pregunta": "94. ¿Por qué se caracteriza la etapa de carácter específico?",
+    "respuestas": [
+      "a) Las PYMES dominan el mercado con un producto original y innovador.",
+      "b) Las mejoras en producto y en proceso son muy pronunciadas.",
+      "c) El proceso de producción empieza a ser eficiente.",
+      "d) Estas empresas se aprovechan también de su sólida imagen corporativa, resultado de los muchos años de presencia en el mercado."
+    ],
+    "correcta": "d) Estas empresas se aprovechan también de su sólida imagen corporativa, resultado de los muchos años de presencia en el mercado."
+  },
+  {
+    "pregunta": "95. Define capacidad:",
+    "respuestas": [
+      "a) El output que puede obtenerse en un período de tiempo, con los recursos disponibles y en condiciones de operación normales.",
+      "b) Es ignorar el tiempo.",
+      "c) Las empresas con más recursos económicos tratan de conseguir una elevada capacidad para obtener economías de alcance.",
+      "d) Todas las anteriores son ciertas."
+    ],
+    "correcta": "a) El output que puede obtenerse en un período de tiempo, con los recursos disponibles y en condiciones de operación normales."
+  },
+  {
+    "pregunta": "96. ¿Es lo mismo la capacidad y la dimensión de una fabrica?",
+    "respuestas": [
+      "a) Si",
+      "b) La capacidad está relacionada con la cantidad y variedad de productos fabricados, mientras que la dimensión incluye, además de los productos, el número de componentes que se fabrican internamente.",
+      "c) Es prácticamente lo mismo.",
+      "d) No es lo mismo ya que la capacidad es el número de componentes que se fabrican."
+    ],
+    "correcta": "b) La capacidad está relacionada con la cantidad y variedad de productos fabricados, mientras que la dimensión incluye, además de los productos, el número de componentes que se fabrican internamente."
+  },
+  {
+    "pregunta": "97. ¿Qué persigue la alianza en producción?",
+    "respuestas": [
+      "a) Obtener economías de escala y de alcance.",
+      "b) Aumentar la mano de obra.",
+      "c) Obtener economías de enlace.",
+      "d) Aumentar la productividad y sus costes."
+    ],
+    "correcta": "a) Obtener economías de escala y de alcance."
+  },
+  {
+    "pregunta": "98. ¿Cuáles son las causas que pueden determinar la necesidad de una nueva localización para una fábrica?",
+    "respuestas": [
+      "a) Lanzamiento de nuevos productos.",
+      "b) Una insuficiente capacidad productiva para un mercado en expansión.",
+      "c) Fusiones de empresas.",
+      "d) Todas las respuestas anteriores son ciertas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son ciertas."
+  },
+  {
+    "pregunta": "99. Ciertas empresas se localizan próximas a los lugares en los que se obtienen sus materias primas o a sus proveedores. ¿Por qué?",
+    "respuestas": [
+      "a) Outputs perecederos.",
+      "b) Cuando es más fácil o más económico transportar los inputs que los outputs.",
+      "c) Cuando casi no se genera material de desecho.",
+      "d) La necesidad de asegurarse el abastecimiento. Es el caso de las firmas que extraen recursos naturales (minas, las explotaciones agrícolas, las pesqueras, las granjas o explotaciones forestales)."
+    ],
+    "correcta": "b) Cuando es más fácil o más económico transportar los inputs que los outputs."
+  },
+  {
+    "pregunta": "100. Marque la afirmación correcta:",
+    "respuestas": [
+      "a) Si la presión fiscal es alta aumenta el atractivo de un lugar.",
+      "b) Los gobiernos locales intentan que las empresas no estén en sus poblaciones por motivos de seguridad.",
+      "c) Las condiciones climatológicas de la zona no son importantes.",
+      "d) La disponibilidad de terrenos y unos costes de construcción razonables son factores adicionales a considerar ya que pueden variar mucho en función del lugar."
+    ],
+    "correcta": "d) La disponibilidad de terrenos y unos costes de construcción razonables son factores adicionales a considerar ya que pueden variar mucho en función del lugar."
+  },
+  {
+    "pregunta": "101. ¿Con qué están relacionadas las decisiones sobre los procesos de transformación?",
+    "respuestas": [
+      "a) la organización de los flujos de trabajo.",
+      "b) la selección de la combinación problema-solución-resolución más adecuada.",
+      "c) Se utiliza poco la tecnología.",
+      "d) Con los trabajadores."
+    ],
+    "correcta": "a) la organización de los flujos de trabajo."
+  },
+  {
+    "pregunta": "102. Defina la configuración productiva por proyectos:",
+    "respuestas": [
+      "a) Se obtiene siempre el mismo producto en la misma instalación.",
+      "b) Se obtiene uno o pocos productos con un largo periodo de fabricación",
+      "c) Se obtienen productos diferentes en las mismas instalaciones.",
+      "d) Se obtienen muchos productos."
+    ],
+    "correcta": "b) Se obtiene uno o pocos productos con un largo periodo de fabricación"
+  },
+  {
+    "pregunta": "103. ¿Por qué se caracteriza la configuración productiva por proyectos?",
+    "respuestas": [
+      "a) Tiene un coste muy bajo.",
+      "b) Fácil planificación y controlar.",
+      "c) Utiliza los trabajadores poco cualificados.",
+      "d) Disponer de maquinaria de uso general, que se puede utilizar para realizar diferentes tareas"
+    ],
+    "correcta": "d) Disponer de maquinaria de uso general, que se puede utilizar para realizar diferentes tareas"
+  },
+  {
+    "pregunta": "104. La configuración productiva por lotes...",
+    "respuestas": [
+      "a) Tiene un alto coste.",
+      "b) Utilizar trabajadores cualificados.",
+      "c) Se caracteriza por fabricar una cantidad pequeña de una gran variedad de productos.",
+      "d) Se obtiene siempre el mismo producto en la misma instalación."
+    ],
+    "correcta": "c) Se caracteriza por fabricar una cantidad pequeña de una gran variedad de productos."
+  },
+  {
+    "pregunta": "105. ¿Qué son las configuraciones “Job-Shop”?",
+    "respuestas": [
+      "a) Taller de trabajo.",
+      "b) Trabajo en equipo.",
+      "c) Justo a tiempo.",
+      "d) Trabajar por debajo de las previsiones"
+    ],
+    "correcta": "a) Taller de trabajo."
+  },
+  {
+    "pregunta": "106. ¿Qué significa configuración en “batch”?",
+    "respuestas": [
+      "a) el proceso de elaboración del producto requiere un número mayor de operaciones.",
+      "b) Los centros de trabajo han de disponer de maquinaria algo más sofisticada y enfocada a determinados tipos de operaciones.",
+      "c) El objetivo de este tipo de configuración es concentrar las destrezas y conocimientos de los operarios y aumentar la utilización de los equipos.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "b) Los centros de trabajo han de disponer de maquinaria algo más sofisticada y enfocada a determinados tipos de operaciones."
+  },
+  {
+    "pregunta": "107. Defina la configuración productiva en línea:",
+    "respuestas": [
+      "a) Se transforma en un flujo continuo de producción cuando se eliminan los tiempos ociosos y de espera de forma que siempre se están ejecutando las mismas operaciones.",
+      "b) Se trata de fabricar lotes de un gran número de unidades, pero de productos poco diferentes y técnicamente homogéneos, usando para ello las mismas instalaciones.",
+      "c) Se producen lotes pequeños de una amplia variedad de productos de poca o nula estandarización.",
+      "d) La especialización de los trabajadores es también mayor realizando cada uno de ellos la misma función, aunque pueda consistir en varias operaciones."
+    ],
+    "correcta": "b) Se trata de fabricar lotes de un gran número de unidades, pero de productos poco diferentes y técnicamente homogéneos, usando para ello las mismas instalaciones."
+  },
+  {
+    "pregunta": "108. ¿Cuáles son los objetivos básicos de la producción continua?",
+    "respuestas": [
+      "a) Reducir el coste",
+      "b) Una rápida realización de los trabajos y generación del valor añadido.",
+      "c) Aumentar el tiempo.",
+      "d) Fabricar un número determinado de productos."
+    ],
+    "correcta": "a) Reducir el coste"
+  },
+  {
+    "pregunta": "109. ¿Qué significan las siglas “JIT” en inglés?",
+    "respuestas": [
+      "a) Justo a tiempo.",
+      "b) Toyota.",
+      "c) Satisfacer la oferta del mercado.",
+      "d) Producir más de lo normal, para tener un nivel de stock suficiente para futuras previsiones."
+    ],
+    "correcta": "a) Justo a tiempo."
+  },
+  {
+    "pregunta": "110. ¿Qué es la automatización?",
+    "respuestas": [
+      "a) Surge al asumir las máquinas funciones cada vez más elevadas y propias de la acción humana.",
+      "b) No es importante para una empresa.",
+      "c) Antes era una técnica utilizada por las empresas, actualmente no, debido a su elevado coste.",
+      "d) Es lo contrario de los robots."
+    ],
+    "correcta": "a) Surge al asumir las máquinas funciones cada vez más elevadas y propias de la acción humana."
+  },
+  {
+    "pregunta": "111. ¿Qué es la distribución en planta?",
+    "respuestas": [
+      "a) El proceso de determinación de la mejor ordenación de los factores disponibles.",
+      "b) Tiene relación con el personal de cada empresa.",
+      "c) La organización de los trabajadores.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "a) El proceso de determinación de la mejor ordenación de los factores disponibles."
+  },
+  {
+    "pregunta": "112. Los cambios en el producto...",
+    "respuestas": [
+      "a) Pueden hacer necesarias modificaciones similares a las requeridas por un cambio en la tecnología.",
+      "b) Se realizarán cuando la empresa esté en expansión.",
+      "c) La tecnología no tiene ninguna relación con los cambios en el producto.",
+      "d) No son importantes."
+    ],
+    "correcta": "a) Pueden hacer necesarias modificaciones similares a las requeridas por un cambio en la tecnología."
+  },
+  {
+    "pregunta": "113. Por qué redistribuiremos una planta productiva?",
+    "respuestas": [
+      "a) Pocos accidentes laborales.",
+      "b) Cuando la mano de obra se encuentra en un clima positivo.",
+      "c) Por culpa de recorrer distancias cortas.",
+      "d) Acumulación excesiva de materiales en proceso."
+    ],
+    "correcta": "d) Acumulación excesiva de materiales en proceso."
+  },
+  {
+    "pregunta": "114. ¿Qué objetivo tiene la distribución en planta?",
+    "respuestas": [
+      "a) Optimizar la ordenación de las maquinas, hombres, materiales y servicios auxiliares de manera que el valor creado sea máximo.",
+      "b) Mejorar la calidad de los trabajadores.",
+      "c) Mejor imagen.",
+      "d) La mejora de la calidad."
+    ],
+    "correcta": "a) Optimizar la ordenación de las maquinas, hombres, materiales y servicios auxiliares de manera que el valor creado sea máximo."
+  },
+  {
+    "pregunta": "115. La distribución en planta por producto, ¿cuál es su flujo de trabajo?",
+    "respuestas": [
+      "a) Flujo variable.",
+      "b) Todas las unidades siguen la misma secuencia de operaciones.",
+      "c) Cada ítem puede requerir una secuencia de operaciones propia.",
+      "d) El personal, la maquinaria y los materiales van al producto cuando se necesitan."
+    ],
+    "correcta": "b) Todas las unidades siguen la misma secuencia de operaciones."
+  },
+  {
+    "pregunta": "116. ¿Cómo es la mano de obra en la distribución en planta por producto?",
+    "respuestas": [
+      "a) Fundamentalmente cualificada, sin necesidad de estrecha supervisión y moderadamente adaptable.",
+      "b) Alta flexibilidad de la mano de obra.",
+      "c) La asignación de tareas es variable.",
+      "d) Capaz de realizar tareas rutinarias y repetitivas a ritmo contante."
+    ],
+    "correcta": "d) Capaz de realizar tareas rutinarias y repetitivas a ritmo contante."
+  },
+  {
+    "pregunta": "117. ¿Qué tipo de personal staff existe en la distribución en planta por producto?",
+    "respuestas": [
+      "a) Poco personal.",
+      "b) Fundamental en la programación y coordinación de actividades.",
+      "c) Numeroso personal auxiliar en supervisión, control y mantenimiento.",
+      "d) Necesario en programación de manejo de materiales y control de la producción y los inventarios"
+    ],
+    "correcta": "c) Numeroso personal auxiliar en supervisión, control y mantenimiento."
+  },
+  {
+    "pregunta": "118. Señale una característica del manejo de materiales en una distribución en planta por proceso:",
+    "respuestas": [
+      "a) Previsible, sistematizado y, a menudo, automatizado.",
+      "b) En ocasiones se requieren equipos (de tipo universal) para cargas pesadas.",
+      "c) Constante.",
+      "d) Variable, a menudo hay duplicaciones, esperas y retrocesos."
+    ],
+    "correcta": "d) Variable, a menudo hay duplicaciones, esperas y retrocesos."
+  },
+  {
+    "pregunta": "119. En la distribución en planta por posición fija, marque una característica de su producto:",
+    "respuestas": [
+      "a) Volumen de producción bajo (con frecuencia una sola unidad).",
+      "b) Alto volumen de producción.",
+      "c) Diversificados.",
+      "d) Tasas de producción variables."
+    ],
+    "correcta": "a) Volumen de producción bajo (con frecuencia una sola unidad)."
+  },
+  {
+    "pregunta": "120. En la distribución en planta por posición fija, marque una característica de su inventario:",
+    "respuestas": [
+      "a) Inventarios variables y frecuentes inmovilizaciones (ciclo de trabajo largo).",
+      "b) Escaso inventario de productos terminados.",
+      "c) Ciclo de trabajo corto.",
+      "d) Alto inventario de productos terminados."
+    ],
+    "correcta": "a) Inventarios variables y frecuentes inmovilizaciones (ciclo de trabajo largo)."
+  },
+  {
+    "pregunta": "121. ¿Cuál es la técnica de evaluación y revisión de programas?",
+    "respuestas": [
+      "a) PERT (Program evaluation and review tecnique).",
+      "b) MRC(Critical path method).",
+      "c) La robotización empresarial.",
+      "d) FMI."
+    ],
+    "correcta": "a) PERT (Program evaluation and review tecnique)."
+  },
+  {
+    "pregunta": "122. La gráfica de Gantt combina dos funciones, ¿cuáles?",
+    "respuestas": [
+      "a) Las tareas y la estrategia.",
+      "b) Las tareas.",
+      "c) Planeación y programación.",
+      "d) La estrategia."
+    ],
+    "correcta": "c) Planeación y programación."
+  },
+  {
+    "pregunta": "123. En el formato de Actividad en el cuadro (AEC)...",
+    "respuestas": [
+      "a) La actividad está representada por una flecha en el diagrama en red y la descripción de la actividad se escribe encima de la flecha.",
+      "b) Cada actividad del diagrama en red está representada por un cuadro, y la descripción correspondiente se escribe dentro del cuadro.",
+      "c) Cada actividad está representada por una flecha.",
+      "d) Las actividades están conectadas por círculos denominados eventos."
+    ],
+    "correcta": "a) La actividad está representada por una flecha en el diagrama en red y la descripción de la actividad se escribe encima de la flecha."
+  },
+  {
+    "pregunta": "124. ¿Describe las actividades ficticias?",
+    "respuestas": [
+      "a) Tiempo cero y representada por una flecha discontinua en el diagrama de red.",
+      "b) Se usan sólo en el formato de AEF.",
+      "c) Son necesarias para para ayudar en la identificación única de actividades y para mostrar ciertas relaciones de precedencias que de lo contrario no se podrían presentar.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "c) Son necesarias para para ayudar en la identificación única de actividades y para mostrar ciertas relaciones de precedencias que de lo contrario no se podrían presentar."
+  },
+  {
+    "pregunta": "125. ¿Tiene alguna ventaja el formato de actividad en el cuadro?",
+    "respuestas": [
+      "a) No tiene ninguna ventaja.",
+      "b) Su ventaja la podemos ver en el cuadro AFFTC.",
+      "c) Normalmente no tiene ventajas, todo lo contrario.",
+      "d) Es que se puede describir la lógica sin la necesidad de utilizar actividades ficticias."
+    ],
+    "correcta": "d) Es que se puede describir la lógica sin la necesidad de utilizar actividades ficticias."
+  },
+  {
+    "pregunta": "126. En un diagrama de red",
+    "respuestas": [
+      "a) las actividades ficticias no tienen asignado un número de evento",
+      "b) solo las actividades ficticias tienen asignado un número de evento",
+      "c) cada envento debe tener un número de evento único",
+      "d) eventos similares pueden tener el mismo número de evento"
+    ],
+    "correcta": "a) las actividades ficticias no tienen asignado un número de evento"
+  },
+  {
+    "pregunta": "127. ¿Es cierta la siguiente afirmación? “Algunos proyectos se componen de un grupo de actividades que se han de repetir varias veces”.",
+    "respuestas": [
+      "a) No",
+      "b) Sí, pero sólo cuando nos encontramos en un diagrama de red en flecha.",
+      "c) No, pero puede serlo cuando nos encontramos en un diagrama de red en flecha.",
+      "d) Sí, es cierta."
+    ],
+    "correcta": "d) Sí, es cierta."
+  },
+  {
+    "pregunta": "128. Para preparar un diagrama de red se ha de disponer de...",
+    "respuestas": [
+      "a) Una relación causal negativa.",
+      "b) Una relación de actividades y seguir los principios que gobiernan el diseño del diagrama de red.",
+      "c) Una organización previa.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "b) Una relación de actividades y seguir los principios que gobiernan el diseño del diagrama de red."
+  },
+  {
+    "pregunta": "129. ¿Qué es lo primero que se ha de hacer en la preparación del diagrama de red?",
+    "respuestas": [
+      "a) Seleccionar el formato a utilizar.",
+      "b) Realizar la actividad en el cuadro.",
+      "c) Concretar la actividad en la flecha.",
+      "d) Dibujar las actividades (de la última a la primera actividad)."
+    ],
+    "correcta": "a) Seleccionar el formato a utilizar."
+  },
+  {
+    "pregunta": "130. ¿Qué nivel de detalle debe tener el diagrama de red de un proyecto (en términos del número de actividades)?",
+    "respuestas": [
+      "a) Las actividades no deben tener una duración estimada mayor que los intervalos de tiempo establecidos para el seguimiento del proyecto.",
+      "b) Dibujar primero una red a modo de resumen y después ampliarla en un diagrama de red más detallado.",
+      "c) Una red de resumen es la que contiene un número pequeño de actividades de alto nivel en lugar de un gran número de actividades pormenorizadas.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "131. ¿Qué siglas determinan el hecho de empezar una actividad determinada lo más pronto posible?",
+    "respuestas": [
+      "a) ET",
+      "b) ES, Earliest Start Time.",
+      "c) PI = Pronto Inicio.",
+      "d) PMI"
+    ],
+    "correcta": "b) ES, Earliest Start Time."
+  },
+  {
+    "pregunta": "132. ¿Qué siglas determinan el tiempo de terminación más temprano?",
+    "respuestas": [
+      "a) TT = Terminación temprana.",
+      "b) EF, Earliest Finish Time.",
+      "c) ES, Earliest Start Time.",
+      "d) TT = Tiempo temprano."
+    ],
+    "correcta": "a) TT = Terminación temprana."
+  },
+  {
+    "pregunta": "133. El tiempo de terminación más tardío se determina por las siglas...",
+    "respuestas": [
+      "a) LF",
+      "b) LS",
+      "c) LM",
+      "d) LN"
+    ],
+    "correcta": "a) LF"
+  },
+  {
+    "pregunta": "134. ¿Qué es el tiempo de inicio más tardío?",
+    "respuestas": [
+      "a) Es la fecha más tardía en que se puede iniciar una actividad en particular para que todo el proyecto se complete en su fecha de terminación exigida.",
+      "b) Es lo más tarde que se puede completar una actividad determinada para que todo el proyecto se concluya en la fecha acordada.",
+      "c) Se calcula sobre la base del momento de terminación establecido para el proyecto y la duración estimada para las actividades sucesivas.",
+      "d) LF"
+    ],
+    "correcta": "a) Es la fecha más tardía en que se puede iniciar una actividad en particular para que todo el proyecto se complete en su fecha de terminación exigida."
+  },
+  {
+    "pregunta": "135. ¿Qué significa el tiempo de terminación más tardío?",
+    "respuestas": [
+      "a) Es la fecha más tardía en que se puede iniciar una actividad en particular para que todo el proyecto se complete en su fecha de terminación exigida.",
+      "b) LS",
+      "c) Es lo más tarde que se puede completar una actividad determinada para que todo el proyecto se concluya en la fecha acordada.",
+      "d) LN"
+    ],
+    "correcta": "c) Es lo más tarde que se puede completar una actividad determinada para que todo el proyecto se concluya en la fecha acordada."
+  },
+  {
+    "pregunta": "136. El tiempo de terminación más tardío para una actividad determinada...",
+    "respuestas": [
+      "a) Es el mayor tiempo que podemos obtener de inicio.",
+      "b) Es el menor (el más precoz) de los tiempos de inicio más tardíos de todas las actividades que directamente suceden a dicha actividad.",
+      "c) Los tiempos de inicio.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "correcta": "b) Es el menor (el más precoz) de los tiempos de inicio más tardíos de todas las actividades que directamente suceden a dicha actividad."
+  },
+  {
+    "pregunta": "137. Marque la respuesta correcta:",
+    "respuestas": [
+      "a) Los tiempos de inicio y terminación siempre se indicarán en el propio diagrama de red.",
+      "b) Los tiempos de inicio y terminación de pueden mostrar en una tabla separada con el detalle del programa",
+      "c) El diagrama de red es muy utilizado, en las empresas que tienen menos de 50 trabajadores.",
+      "d) El diagrama de red es poco utilizado para empresas que tienen menos de 50 trabajadores."
+    ],
+    "correcta": "b) Los tiempos de inicio y terminación de pueden mostrar en una tabla separada con el detalle del programa"
+  },
+  {
+    "pregunta": "138. ¿Cuál es la diferencia entre la fecha de inicio más temprana calculada para una actividad y la fecha de terminación requerida?",
+    "respuestas": [
+      "a) Es el diagrama de red.",
+      "b) Es el diagrama de red (HT).",
+      "c) Es la holgura total (HT).",
+      "d) No hay diferencias."
+    ],
+    "correcta": "c) Es la holgura total (HT)."
+  },
+  {
+    "pregunta": "139. ¿Qué significa que “la holgura total es positiva”?",
+    "respuestas": [
+      "a) Esto representa la cantidad de tiempo que hay que adelantar las actividades de una ruta en particular con el fin de completar el proyecto en el tiempo de terminación requerido.",
+      "b) Significa que no es necesario que se apresuren las actividades en la ruta, pero tampoco se pueden retrasar.",
+      "c) Es el tiempo mínimo que se pueden demorar las tareas.",
+      "d) Esto representa la cantidad máxima de tiempo que se pueden demorar las actividades de una ruta en particular sin arriesgar que el proyecto se acabe en el momento exigido."
+    ],
+    "correcta": "d) Esto representa la cantidad máxima de tiempo que se pueden demorar las actividades de una ruta en particular sin arriesgar que el proyecto se acabe en el momento exigido."
+  },
+  {
+    "pregunta": "140. ¿Qué es la holgura libre?",
+    "respuestas": [
+      "a) Ésta es la cantidad de tiempo que se puede demorar o retrasar una actividad determinada, sin llegar a afectar el tiempo de inicio más temprano de las actividades que inmediatamente la suceden.",
+      "b) Es el trayecto más largo en el diagrama de red global.",
+      "c) La holgura libre, para una ruta de actividades determinada es común y compartida entre todas las tareas de esa ruta.",
+      "d) Es lo más tarde que se puede completar una actividad determinada para que todo el proyecto se concluya en la fecha acordada."
+    ],
+    "correcta": "a) Ésta es la cantidad de tiempo que se puede demorar o retrasar una actividad determinada, sin llegar a afectar el tiempo de inicio más temprano de las actividades que inmediatamente la suceden."
+  },
+  {
+    "pregunta": "141. ¿Qué es el producto?",
+    "respuestas": [
+      "a) Es el producto es el mix comercial entregado a los competidores.",
+      "b) La mitad de los beneficios proporcionados para satisfacer las necesidades de los competidores.",
+      "c) Es lo que comercializaremos para extraer un beneficio.",
+      "d) Es todo lo que se pretende que se perciba de él."
+    ],
+    "correcta": "d) Es todo lo que se pretende que se perciba de él."
+  },
+  {
+    "pregunta": "142. ¿Por qué componentes se pueden dividir los productos?",
+    "respuestas": [
+      "a) El producto deseado, y el producto diminutivo.",
+      "b) El producto genérico, el producto esperado, y el producto aumentado.",
+      "c) El producto diferenciado.",
+      "d) El producto individual."
+    ],
+    "correcta": "b) El producto genérico, el producto esperado, y el producto aumentado."
+  },
+  {
+    "pregunta": "143. Bienes de especialidad:",
+    "respuestas": [
+      "a) Suelen ser bienes caros, ofrecidos por el detallista de manera exclusiva o selectiva y que contribuyen a crear una imagen específica en el consumidor.",
+      "b) Se busca la comparación.",
+      "c) El comprador no conoce las características diferenciadoras.",
+      "d) El comprador dedica tiempo y esfuerzo para buscar lo que mejor se adapta a sus necesidades."
+    ],
+    "correcta": "a) Suelen ser bienes caros, ofrecidos por el detallista de manera exclusiva o selectiva y que contribuyen a crear una imagen específica en el consumidor."
+  },
+  {
+    "pregunta": "144. ¿Por qué se caracterizan los servicios?",
+    "respuestas": [
+      "a) Su carácter tangible.",
+      "b) Primero se producen y luego se consumen.",
+      "c) Se puede almacenar.",
+      "d) La variabilidad depende de quien los suministre, cuándo y donde."
+    ],
+    "correcta": "d) La variabilidad depende de quien los suministre, cuándo y donde."
+  },
+  {
+    "pregunta": "145. La calidad del producto...",
+    "respuestas": [
+      "a) Es sólo un problema comercial.",
+      "b) Es la percepción del diseñador de la empresa sobre la viabilidad del producto.",
+      "c) La función comercial no tiene ninguna relación con la calidad del producto.",
+      "d) La calidad del producto es la percepción del cliente de la viabilidad del producto en el desempeño de la función para la que ha sido diseñado."
+    ],
+    "correcta": "d) La calidad del producto es la percepción del cliente de la viabilidad del producto en el desempeño de la función para la que ha sido diseñado."
+  },
+  {
+    "pregunta": "146. ¿Para qué sirve el packaging?",
+    "respuestas": [
+      "a) Para ajustar a las normas legales y de protección el producto.",
+      "b) Servir de instrumento de comunicación y diferenciación.",
+      "c) Proporcionar información complementaria.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "147. El envase primario es...",
+    "respuestas": [
+      "a) el que está en contacto con el producto (botella de licor, lata de conserva).",
+      "b) Refuerza la función de protección.",
+      "c) La manejabilidad, el transporte y la presentación.",
+      "d) Agrupamiento de envases (caja de cartón para un frasco de perfume)."
+    ],
+    "correcta": "a) el que está en contacto con el producto (botella de licor, lata de conserva)."
+  },
+  {
+    "pregunta": "148. ¿Se han de hacer esfuerzos de manera continua para diferenciar el producto?",
+    "respuestas": [
+      "a) No",
+      "b) Sí, ya que de este modo estaremos en un mercado altamente competitivo, de estrecho margen, y tendremos una pérdida del control del mercado.",
+      "c) Sí, ya que de no hacerse así, se acaba con un producto similar a los demás.",
+      "d) No ya que podemos vender a bajo precio y ganar así cuota de mercado."
+    ],
+    "correcta": "b) Sí, ya que de este modo estaremos en un mercado altamente competitivo, de estrecho margen, y tendremos una pérdida del control del mercado."
+  },
+  {
+    "pregunta": "149. ¿En qué consiste una línea de productos?",
+    "respuestas": [
+      "a) Consiste en mercados separados.",
+      "b) En un grupo de productos relacionados con una marca comercial común y que se comercializan en los mismos mercados.",
+      "c) Consiste en mercados muy diferenciados.",
+      "d) En un grupo de productos relacionados por diferentes marcas (efecto paraguas)."
+    ],
+    "correcta": "b) En un grupo de productos relacionados con una marca comercial común y que se comercializan en los mismos mercados."
+  },
+  {
+    "pregunta": "150. ¿Puede pasar que una empresa elimine un producto?",
+    "respuestas": [
+      "a) No.",
+      "b) Sí, siempre y cuando sus beneficios sean muy elevados.",
+      "c) Los productos obsoletos o no rentables de una línea de productos son candidatos a ser eliminados de ella.",
+      "d) Sí, pero sólo cuando su margen de beneficio sea inferior a la inversión inicial."
+    ],
+    "correcta": "c) Los productos obsoletos o no rentables de una línea de productos son candidatos a ser eliminados de ella."
+  },
+  {
+    "pregunta": "151. ¿Qué etapas tiene un producto?",
+    "respuestas": [
+      "a) Introducción, crecimiento.",
+      "b) Nacimiento, vida y muerte.",
+      "c) Desarrollo, madurez y declive.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "152. Si nos encontramos en una situación en la que nuestras ventas tienen un crecimiento lento, ¿cómo será nuestro beneficio?",
+    "respuestas": [
+      "a) Negativo.",
+      "b) Máximo.",
+      "c) Disminuirá.",
+      "d) Alto"
+    ],
+    "correcta": "a) Negativo."
+  },
+  {
+    "pregunta": "153. El diseño del producto inicial...",
+    "respuestas": [
+      "a) Es muy costoso.",
+      "b) Tiene poco importancia.",
+      "c) Presentará pocas variantes o accesorios, con un número limitado de modelos.",
+      "d) Tendrá muchos modelos distintos."
+    ],
+    "correcta": "c) Presentará pocas variantes o accesorios, con un número limitado de modelos."
+  },
+  {
+    "pregunta": "154. La fase de crecimiento...",
+    "respuestas": [
+      "a) Lenta pero creciente evolución de las ventas.",
+      "b) El producto ha tenido éxito las ventas comienzan a crecer con rapidez, los primeros usuarios transmiten su satisfacción a otros y se extiende la demanda del producto.",
+      "c) Esta fase se caracteriza por una más lenta entrada de nuevos competidores y una menor incorporación de nuevos clientes.",
+      "d) Los competidores de menor tamaño, con peores estructuras de costes, son comprados por otros competidores o expulsados del mercado."
+    ],
+    "correcta": "b) El producto ha tenido éxito las ventas comienzan a crecer con rapidez, los primeros usuarios transmiten su satisfacción a otros y se extiende la demanda del producto."
+  },
+  {
+    "pregunta": "155. Defina la fase de declive:",
+    "respuestas": [
+      "a) El declive del mercado no siempre es sinónimo de abandono.",
+      "b) Aparece con un cambio significativo en la situación de competencia debido a la presión de un nuevo producto.",
+      "c) El precio y la comunicación se acomodarán a la urgencia que se tenga de eliminar los stocks.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "156. ¿Por qué tienen marca los productos?",
+    "respuestas": [
+      "a) La marca no es importante.",
+      "b) La marca identifica al producto ante el comprador, le recuerda sus preferencias por los diversos atributos de dicho producto.",
+      "c) Por tradición",
+      "d) Para que los compradores sepan que producto quieren."
+    ],
+    "correcta": "b) La marca identifica al producto ante el comprador, le recuerda sus preferencias por los diversos atributos de dicho producto."
+  },
+  {
+    "pregunta": "157. ¿Qué significa “marca paraguas”?",
+    "respuestas": [
+      "a) Son distintas marcas.",
+      "b) Es una estrategia de marca genérica.",
+      "c) Significa prestigio.",
+      "d) Es una marca que tiene mucha notoriedad en el mercado."
+    ],
+    "correcta": "b) Es una estrategia de marca genérica."
+  },
+  {
+    "pregunta": "158. Marque la respuesta correcta:",
+    "respuestas": [
+      "a) Lo importante es que un producto tenga una marca en concreto.",
+      "b) Los productos genéricos, tienen una marca comercial.",
+      "c) Crear una marca comercial y aplicarla a un producto puede ser un proceso económico y que proporcione un medio eficaz para obtener la identificación de un producto."
+    ],
+    "correcta": "c) Crear una marca comercial y aplicarla a un producto puede ser un proceso económico y que proporcione un medio eficaz para obtener la identificación de un producto."
+  },
+  {
+    "pregunta": "159. Defina la distribución amplia/consumo masivo.",
+    "respuestas": [
+      "a) la marca es más importante para productos que tienen una distribución amplia y un consumo masivo.",
+      "b) Dependerá del lugar de compra.",
+      "c) La marca es más importante para productos que se venden con una estrategia de “tirar” (pull) más que con una estrategia de “empujar” (push).",
+      "d) Si un producto va a ser respaldado por una fuerte campaña de publicidad, la marca comercial será importante."
+    ],
+    "correcta": "a) la marca es más importante para productos que tienen una distribución amplia y un consumo masivo."
+  },
+  {
+    "pregunta": "160. ¿Los consumidores considerarán al nuevo producto como consistente en relación a los otros productos ya introducidos?",
+    "respuestas": [
+      "a) Los consumidores no aceptarán la garantía de una marca comercial que se extienda mucho más allá, para cubrir productos muy distintos de los originales.",
+      "b) Los consumidores deben percibir que los productos quedan en el ámbito de la experiencia que se le supone de la nueva marca, nunca de la original.",
+      "c) Si",
+      "d) Si, siempre y cuando la relación calidad y precio sea la misma que antes de introducir los nuevos productos"
+    ],
+    "correcta": "a) Los consumidores no aceptarán la garantía de una marca comercial que se extienda mucho más allá, para cubrir productos muy distintos de los originales."
+  },
+  {
+    "pregunta": "161. Las decisiones de precios se interrelacionan con otros elementos del mix comercial, ¿cuáles son?",
+    "respuestas": [
+      "a) Precio y producto.",
+      "b) Precio y promoción.",
+      "c) Precio y distribución.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "162. ¿Qué objetivo persigue al descremar el mercado?",
+    "respuestas": [
+      "a) Cuando el precio se establece por debajo del nivel del precio de mercado con el objetivo de ganar cuota.",
+      "b) Establecer un precio por encima del precio habitual de mercado.",
+      "c) Esta reducción de precio no desencadena una respuesta de la competencia.",
+      "d) la demanda es elástica, el resultado debería ser un crecimiento de la cuota de mercado."
+    ],
+    "correcta": "b) Establecer un precio por encima del precio habitual de mercado."
+  },
+  {
+    "pregunta": "163. ¿Qué significa “penetrar en el mercado”?",
+    "respuestas": [
+      "a) Este objetivo persigue establecer un precio por encima del precio habitual de mercado",
+      "b) Cuando el objetivo es mantener una estabilidad de precios se opta por fijar el precio según el precio establecido de mercado.",
+      "c) Cuando el precio se establece por debajo del nivel del precio de mercado con el objetivo de ganar cuota.",
+      "d) Es eficaz para productos muy diferenciados y considerados como de muy alta calidad."
+    ],
+    "correcta": "c) Cuando el precio se establece por debajo del nivel del precio de mercado con el objetivo de ganar cuota."
+  },
+  {
+    "pregunta": "164. El mercado objetivo y su posicionamiento...",
+    "respuestas": [
+      "a) Un producto de gama alta siempre tendrá.",
+      "b) Un producto cuya posición es aprovechar la ventaja competitiva de un precio bajo, debe tener un objetivo de precio por debajo del precio de mercado.",
+      "c) el target group no es importante, lo importante es nuestro posicionamiento en el mercado.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "b) Un producto cuya posición es aprovechar la ventaja competitiva de un precio bajo, debe tener un objetivo de precio por debajo del precio de mercado."
+  },
+  {
+    "pregunta": "165. ¿En qué situación es posible fijar el objetivo de precio por encima del precio de mercado?",
+    "respuestas": [
+      "a) Nunca, ya que es imposible que alguien compré un producto sabiendo que puede encontrarlo más barato.",
+      "b) Cuando el producto es diferenciado y la curva de la demanda muestra cierta inelasticidad.",
+      "c) Cuando la curva de la oferta es inelástica y su demanda elástica.",
+      "d) Cuando la oferta es elástica."
+    ],
+    "correcta": "b) Cuando el producto es diferenciado y la curva de la demanda muestra cierta inelasticidad."
+  },
+  {
+    "pregunta": "166. ¿En qué se pueden agrupar los determinantes del precio?",
+    "respuestas": [
+      "a) Factores de coste y de oferta.",
+      "b) Factores de oferta.",
+      "c) Factores de la calidad.",
+      "d) Factores de la demanda, del coste y del entorno."
+    ],
+    "correcta": "d) Factores de la demanda, del coste y del entorno."
+  },
+  {
+    "pregunta": "167. Para fijar los precios, los costes del producto ¿en qué se deben dividir?",
+    "respuestas": [
+      "a) Fijos.",
+      "b) Totales.",
+      "c) Variables.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "c) Variables."
+  },
+  {
+    "pregunta": "168. En la mayoría de mercados",
+    "respuestas": [
+      "a) hay un único precio al que todos los competidores se adhieren",
+      "b) existe una banda de precios que oscila habitualmente un 10% a ambos lados",
+      "c) el precio es determinado por la media entre los costes y el precio del principal competidor",
+      "d) los precios fluctúan diariamente"
+    ],
+    "correcta": "b) existe una banda de precios que oscila habitualmente un 10% a ambos lados"
+  },
+  {
+    "pregunta": "169. Habitualmente la elasticidad es...",
+    "respuestas": [
+      "a) Positiva",
+      "b) Negativa",
+      "c) Neutra",
+      "d) Inestable"
+    ],
+    "correcta": "b) Negativa"
+  },
+  {
+    "pregunta": "170. ¿Qué pasos pueden existir en la metodología multidimensional?",
+    "respuestas": [
+      "a) Establecer un precio base.",
+      "b) Investigar los efectos del cambio de precios.",
+      "c) Realizar ajustes al precio base.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "171. Indique el enunciado correcto:",
+    "respuestas": [
+      "a) A las decisiones relacionadas con la promoción comercial se centran en la asignación del presupuesto de promoción entre elementos que componen el mix promocional.",
+      "b) Las decisiones tomadas en relación a la promoción comercial también orientan otras decisiones dentro del mismo ámbito.",
+      "c) la decisión respecto al mix promocional no puede hacerse hasta que se haya establecido el total del presupuesto destinado a la promoción comercial.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "172. ¿Cuáles son los principales elementos del mix promocional a los que se deben asignar fondos?",
+    "respuestas": [
+      "a) Las compras.",
+      "b) La venta personal, publicidad, promoción de ventas y relaciones públicas.",
+      "c) la publicidad y las compras.",
+      "d) Las relaciones internacionales."
+    ],
+    "correcta": "b) La venta personal, publicidad, promoción de ventas y relaciones públicas."
+  },
+  {
+    "pregunta": "173. ¿Qué es el packaging?",
+    "respuestas": [
+      "a) Es la parte del producto que no se puede ver.",
+      "b) Es el elemento que forma parte del mix promocional y, a veces, estos gastos son mayores que los destinados a publicidad.",
+      "c) No es muy utilizado para las empresas españolas.",
+      "d) Es el paquete del producto, es utilizado en las empresas que cotizan en bolsa."
+    ],
+    "correcta": "b) Es el elemento que forma parte del mix promocional y, a veces, estos gastos son mayores que los destinados a publicidad."
+  },
+  {
+    "pregunta": "174. Defina “fuerza de ventas”:",
+    "respuestas": [
+      "a) Es una venta poco flexible.",
+      "b) Hay poca comunicación.",
+      "c) La venta personal es la más flexible de las formas de comunicación.",
+      "d) la fuerza de ventas no es importante."
+    ],
+    "correcta": "c) La venta personal es la más flexible de las formas de comunicación."
+  },
+  {
+    "pregunta": "175. La publicidad...",
+    "respuestas": [
+      "a) Es totalmente flexible.",
+      "b) El mensaje se ajusta para atender a las necesidades de los distintos clientes; todos reciben mensajes distintos.",
+      "c) La publicidad es mucho menos cara por venta personal que por venta cerrada.",
+      "d) la publicidad es impersonal; no ayuda a desarrollar relaciones personales."
+    ],
+    "correcta": "d) la publicidad es impersonal; no ayuda a desarrollar relaciones personales."
+  },
+  {
+    "pregunta": "176. ¿Qué es la “promoción de ventas”?",
+    "respuestas": [
+      "a) Son programas promocionales a largo y medio plazo.",
+      "b) Se diseñan para conseguir un objetivo específico de largo plazo.",
+      "c) Se pueden hacer llegar cupones de descuento a los consumidores para conseguir que prueben por primera vez el producto.",
+      "d) Son poco utilizadas en la Unión Europea."
+    ],
+    "correcta": "c) Se pueden hacer llegar cupones de descuento a los consumidores para conseguir que prueben por primera vez el producto."
+  },
+  {
+    "pregunta": "177. De las siguientes opciones, indique cuál es la correcta:",
+    "respuestas": [
+      "a) Los elementos promocionales de productos similares servirán para determinar nuestro beneficio neto.",
+      "b) Según sea el mercado objetivo, se llegará mejor a él mediante la venta personal o la publicidad",
+      "c) a mezcla de los elementos de publicidad podría llegar a disminuir muestra ventaja relativa",
+      "d) publicidad no es importante, siempre que se realice una venta personal."
+    ],
+    "correcta": "b) Según sea el mercado objetivo, se llegará mejor a él mediante la venta personal o la publicidad"
+  },
+  {
+    "pregunta": "178. ¿Qué es la naturaleza del producto?",
+    "respuestas": [
+      "a) Cuanto más complejo es el producto desde el punto de vista del comprador, más importante es la venta personal como elemento promocional.",
+      "b) Las promociones de venta no son importantes para este tipo de productos.",
+      "c) Son productos en vías de desarrollo."
+    ],
+    "correcta": "a) Cuanto más complejo es el producto desde el punto de vista del comprador, más importante es la venta personal como elemento promocional."
+  },
+  {
+    "pregunta": "179. Cuando se “empuja” un producto...",
+    "respuestas": [
+      "a) Se intenta ganar el apoyo del canal de distribución ofreciéndole incentivos para que coopere.",
+      "b) la acción comercial se dirige directamente al consumidor final con la intención de crear demanda para el producto.",
+      "c) Es realizar ofertas por ventas superiores a un número determinado de productos.",
+      "d) La empresa está en una situación complicada."
+    ],
+    "correcta": "a) Se intenta ganar el apoyo del canal de distribución ofreciéndole incentivos para que coopere."
+  },
+  {
+    "pregunta": "180. En la fase de introducción...",
+    "respuestas": [
+      "a) La publicidad adquiere un papel más persuasivo, tratando de profundizar en el conocimiento del producto y crear actitudes favorables.",
+      "b) La publicidad se encarga de descubrir el nuevo producto, las promociones de ventas intenta atraer a potenciales clientes.",
+      "c) Se puede usar la publicidad para ampliar el mercado del producto y promover nuevos usos.",
+      "d) La publicidad disminuye, jugando tan sólo un papel de recordatorio, apenas se utiliza las promociones de venta."
+    ],
+    "correcta": "b) La publicidad se encarga de descubrir el nuevo producto, las promociones de ventas intenta atraer a potenciales clientes."
+  },
+  {
+    "pregunta": "181. ¿En qué país las empresas invierten más de 140.000 millones de dólares al año en la venta personal?",
+    "respuestas": [
+      "a) Alemania.",
+      "b) España",
+      "c) América.",
+      "d) China."
+    ],
+    "correcta": "c) América."
+  },
+  {
+    "pregunta": "182. ¿Cómo podemos considerar las fuerzas de ventas?",
+    "respuestas": [
+      "a) Un servicio que debe realizar el equipo directivo.",
+      "b) Elemento dentro de la variable de promoción o comunicación del mix comercial.",
+      "c) Algo innecesarios para una empresa.",
+      "d) Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": "b) Elemento dentro de la variable de promoción o comunicación del mix comercial."
+  },
+  {
+    "pregunta": "183. La importancia de la venta personal...",
+    "respuestas": [
+      "a) Es siempre la misma.",
+      "b) Varía en cada caso en función de la naturaleza de la actividad de la empresa.",
+      "c) Dependerá del carácter de cada vendedor.",
+      "d) Determinará los costes unitarios."
+    ],
+    "correcta": "b) Varía en cada caso en función de la naturaleza de la actividad de la empresa."
+  },
+  {
+    "pregunta": "184. ¿Qué habilidades se consideran necesarias en el proceso de venta?",
+    "respuestas": [
+      "a) Hablar mucho y no dejar que el vendedor hable.",
+      "b) conocer cómo hacer aflorar los problemas y necesidades de los clientes.",
+      "c) Tener capacidad de realizar operaciones matemáticas con rapidez.",
+      "d) Ser ordenado."
+    ],
+    "correcta": "b) conocer cómo hacer aflorar los problemas y necesidades de los clientes."
+  },
+  {
+    "pregunta": "185. ¿Con qué método podemos afrontar la venta personal?",
+    "respuestas": [
+      "a) Venta por pronto pago.",
+      "b) Venta producto-imagen-producto.",
+      "c) Estímulo – respuesta frente a la satisfacción de las necesidades."
+    ],
+    "correcta": "c) Estímulo – respuesta frente a la satisfacción de las necesidades."
+  },
+  {
+    "pregunta": "186. ¿Qué es el cierre de la venta?",
+    "respuestas": [
+      "a) Es la parte más sencilla de la venta ya que en esta fase el cliente ya está decidido a realizar la compra.",
+      "b) No es importante.",
+      "c) Para algunos vendedores la parte más difícil de la venta es su cierre o pedir la realización del pedido.",
+      "d) Determinará el coste del producto."
+    ],
+    "correcta": "c) Para algunos vendedores la parte más difícil de la venta es su cierre o pedir la realización del pedido."
+  },
+  {
+    "pregunta": "187. ¿Qué técnicas pueden ayudar al cierre?",
+    "respuestas": [
+      "a) Ofrecer un incentivo especial para los pedido que se realicen de forma inmediata.",
+      "b) Sugerir posibles limitaciones respecto a la disponibilidad del producto.",
+      "c) El precio ofrecido si no se cierra la operación.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "188. ¿Es importante la formación del equipo de venta?",
+    "respuestas": [
+      "a) No lo es.",
+      "b) Sí que es importante, pero no es necesario que lo realicen las empresas ya que supone un coste muy elevado",
+      "c) Es muy importante, a largo plazo la empresa verá que el esfuerzo que ha realizado para formar a los trabajadores se traduce en una mejora del servicio post venta.",
+      "d) Es importante, pero la empresa puede prescindir, lo mejor es que haga una buena selección de personal."
+    ],
+    "correcta": "c) Es muy importante, a largo plazo la empresa verá que el esfuerzo que ha realizado para formar a los trabajadores se traduce en una mejora del servicio post venta."
+  },
+  {
+    "pregunta": "189. ¿Qué esperan los clientes actuales de los vendedores?",
+    "respuestas": [
+      "a) Que los vendedores tengan un profundo conocimiento del producto para poder aportar ideas que contribuyan a mejorar su negocio.",
+      "b) Nada.",
+      "c) Que no les molesten cuando están indecisos.",
+      "d) Es muy importante que todos los vendedores sepan inglés."
+    ],
+    "correcta": "a) Que los vendedores tengan un profundo conocimiento del producto para poder aportar ideas que contribuyan a mejorar su negocio."
+  },
+  {
+    "pregunta": "190. ¿Qué es necesario para que un trabajador sea un buen vendedor?",
+    "respuestas": [
+      "a) Conocer e identificarse con la empresa.",
+      "b) Conocer los productos.",
+      "c) Conocer las características de los clientes y de los competidores.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "191. ¿Qué significa inversión?",
+    "respuestas": [
+      "a) Es la aplicación de recursos financieros para la creación, renovación, ampliación y/o mejora de la capacidad operativa de la empresa.",
+      "b) Invertir es sinónimo de pérdidas.",
+      "c) Para ser un buen inversor, es necesario disponer de más de 100.000.000€.",
+      "d) Las inversiones reales son las relacionadas con el proceso tecnológico."
+    ],
+    "correcta": "a) Es la aplicación de recursos financieros para la creación, renovación, ampliación y/o mejora de la capacidad operativa de la empresa."
+  },
+  {
+    "pregunta": "192. Defina “aspectos cualitativos”:",
+    "respuestas": [
+      "a) Permiten hacer cálculos como el coste de adquisición.",
+      "b) Son las particularidades de los proyectos de inversión que no pueden ser valorados económicamente, pero que es necesario tener en cuenta."
+    ],
+    "correcta": "b) Son las particularidades de los proyectos de inversión que no pueden ser valorados económicamente, pero que es necesario tener en cuenta."
+  },
+  {
+    "pregunta": "193. Todo proyecto de inversión se caracteriza por constar de cobros y pagos. Indique qué opción define “cobro”:",
+    "respuestas": [
+      "a) Entrada de dinero a consecuencia del proyecto.",
+      "b) Cualquier movimiento negativo de caja (pagos mayores que cobros).",
+      "c) Salida de dinero de la empresa asociada al proyecto.",
+      "d) Se incluye el pago inicial de la adquisición, la instalación, el mantenimiento, etc."
+    ],
+    "correcta": "a) Entrada de dinero a consecuencia del proyecto."
+  },
+  {
+    "pregunta": "194. ¿Qué significa la variable n?",
+    "respuestas": [
+      "a) Desembolso inicial.",
+      "b) Duración.",
+      "c) Pago correspondiente al periodo t.",
+      "d) Flujo de caja o movimiento neto de caja correspondiente al periodo t (Ct – Pt)."
+    ],
+    "correcta": "b) Duración."
+  },
+  {
+    "pregunta": "195. ¿Cual de las siguientes fórmulas utilizamos para encontrar el interés simple?",
+    "respuestas": [
+      "a) Cn = C0 (1+ i)n",
+      "b) [C1/ (1+k) + C2/ (1+k)² + ... + Cn/ (1+k)n] - [P1/ (1+k) + P2/ (1+k)² + ... + Pn/ (1+k)n]",
+      "c) Cn = C0 (1 + n*i)",
+      "d) IS= CT – CV"
+    ],
+    "correcta": "c) Cn = C0 (1 + n*i)"
+  },
+  {
+    "pregunta": "196. Indique la respuesta correcta:",
+    "respuestas": [
+      "a) Si VAN = 0, sería indiferente realizar o no el proyecto.",
+      "b) Si VAN < 0, no debería realizarse el proyecto ya que disminuye el patrimonio de la empresa.",
+      "c) i el VAN > 0: el proyecto de inversión resulta conveniente para la empresa.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "197. Indique la respuesta correcta:",
+    "respuestas": [
+      "a) La TIR es siempre negativa.",
+      "b) Cuanto mayor sea r (TIR) más conveniente será el proyecto.",
+      "c) r > k en esta situación la TIR será negativa.",
+      "d) La TIR debe ser negativa."
+    ],
+    "correcta": "b) Cuanto mayor sea r (TIR) más conveniente será el proyecto."
+  },
+  {
+    "pregunta": "198. Marque la respuesta correcta con respecto a las inversiones no simples:",
+    "respuestas": [
+      "a) En las inversiones no simples, puede haber flujos netos de caja positivos, negativos o nulos a lo largo de toda la vida del proyecto.",
+      "b) Algunas de las soluciones pueden ser números negativos o imaginarios.",
+      "c) Podrá no existir ninguna solución positiva y real: cuando el VAN no toca el eje de abscisas, sino que es tangente.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "199. El VAN...",
+    "respuestas": [
+      "a) Determina el rendimiento neto de un proyecto en términos absolutos.",
+      "b) Determina el rendimiento bruto de un proyecto en términos porcentuales.",
+      "c) Es la tasa de rendimiento propia del proyecto."
+    ],
+    "correcta": "a) Determina el rendimiento neto de un proyecto en términos absolutos."
+  },
+  {
+    "pregunta": "200. La TIR...",
+    "respuestas": [
+      "a) Es más subjetivo ya que hay que considerar a priori el coste del capital que se usará para la actualización de flujos.",
+      "b) Es independiente del hecho de que el inversor recurra a deuda para financiar el proyecto o no.",
+      "c) Determina el rendimiento neto de un proyecto en términos absolutos.",
+      "d) Determina el rendimiento bruto de un proyecto en términos porcentuales."
+    ],
+    "correcta": "d) Determina el rendimiento bruto de un proyecto en términos porcentuales."
+  },
+  {
+    "pregunta": "201. ¿Qué son las fuentes de financiación externas?",
+    "respuestas": [
+      "a) Aquellas que la empresa solicita a terceros para poder desarrollar su actividad.",
+      "b) Cuando la empresa pide dinero a los trabajadores.",
+      "c) Se realizan siempre con una ampliación de capital.",
+      "d) Cuando los trabajadores invierten su dinero en la misma empresa que trabajan."
+    ],
+    "correcta": "a) Aquellas que la empresa solicita a terceros para poder desarrollar su actividad."
+  },
+  {
+    "pregunta": "202. ¿Qué son las aportaciones de los socios directamente?",
+    "respuestas": [
+      "a) Por medio de la autofinanciación.",
+      "b) Se entiende por autofinanciación la capitalización que se produce en la empresa por su propia actividad.",
+      "c) Se realizan a través de emisiones o ampliaciones de capital.",
+      "d) La autofinanciación se considera un tipo de financiación “interna”."
+    ],
+    "correcta": "c) Se realizan a través de emisiones o ampliaciones de capital."
+  },
+  {
+    "pregunta": "203. ¿Qué enunciado es correcto repecto de una S.A.?",
+    "respuestas": [
+      "a) Lo divide en participaciones.",
+      "b) S.A. = S.L.",
+      "c) Divide su capital en partes alícuotas denominadas acciones",
+      "d) El que forma parte de la S.A. tiene participaciones de la empresa en cuestión."
+    ],
+    "correcta": "c) Divide su capital en partes alícuotas denominadas acciones"
+  },
+  {
+    "pregunta": "204. ¿Qué derecho confieren las acciones ordinarias?",
+    "respuestas": [
+      "a) Derecho a participar en el reparto de beneficios o en la liquidación del patrimonio.",
+      "b) Derecho a suscripción preferente de acciones nuevas u obligaciones convertibles.",
+      "c) Derecho a asistir y votar en la junta general de accionistas.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "205. Define las acciones sin voto:",
+    "respuestas": [
+      "a) Son aquellas que otorgan a sus titulares algún tipo de privilegio adicional frente a las acciones ordinarias.",
+      "b) Si nos encontramos en una situación de quiebra, los accionistas privilegiados se sitúan detrás de los acreedores.",
+      "c) Sirve para internacionalizar la empresa.",
+      "d) Dan derecho a un dividendo mínimo, que debe estar contemplado en los estatutos y que no puede ser inferior al 5% del capital desembolsado por cada acción sin voto."
+    ],
+    "correcta": "d) Dan derecho a un dividendo mínimo, que debe estar contemplado en los estatutos y que no puede ser inferior al 5% del capital desembolsado por cada acción sin voto."
+  },
+  {
+    "pregunta": "206. Marque la definición correcta de la bolsa:",
+    "respuestas": [
+      "a) Es un mercado organizado que centraliza la oferta demanda de los valores admitidos de cotización.",
+      "b) En el mercado de valores donde sólo se negocian acciones.",
+      "c) Trata de un mercado primario y no oficial."
+    ],
+    "correcta": "a) Es un mercado organizado que centraliza la oferta demanda de los valores admitidos de cotización."
+  },
+  {
+    "pregunta": "207. ¿Qué son los índices no oficiales?",
+    "respuestas": [
+      "a) Son todos aquellos índices que no están publicados por el Banco de España en el BOE como oficiales.",
+      "b) Los que están publicados en el BOE.",
+      "c) Son aquellos índices que son susceptibles de influenciarse por la entidad financiera.",
+      "d) Son los que dependen exclusivamente de la propia entidad financiera."
+    ],
+    "correcta": "a) Son todos aquellos índices que no están publicados por el Banco de España en el BOE como oficiales."
+  },
+  {
+    "pregunta": "208. ¿Qué significan las siglas TAE?",
+    "respuestas": [
+      "a) Tasa de retorno de la inversión.",
+      "b) Tasa de actividad económica.",
+      "c) Tasa anual equivalente.",
+      "d) Tasa actual equivalente."
+    ],
+    "correcta": "c) Tasa anual equivalente."
+  },
+  {
+    "pregunta": "209. ¿Qué es un préstamo bancario?",
+    "respuestas": [
+      "a) Es un contrato por el cual la entidad financiera (prestamista) pone a disposición de su cliente (prestatario) una cantidad de dinero, comprometiéndose este último a devolverlo según las condiciones de coste y plazo acordadas.",
+      "b) Es cuando una persona a título personal (prestamista) deja una cantidad de dinero a una tercera persona (prestatario).",
+      "c) En el préstamo bancario a diferencia de otros préstamos no existen intereses ni comisiones.",
+      "d) La entidad financiera (prestatario), deja a su cliente (prestamista) una cantidad determinada de dinero."
+    ],
+    "correcta": "a) Es un contrato por el cual la entidad financiera (prestamista) pone a disposición de su cliente (prestatario) una cantidad de dinero, comprometiéndose este último a devolverlo según las condiciones de coste y plazo acordadas."
+  },
+  {
+    "pregunta": "210. ¿Qué tipo de ventaja puede ofrecer el renting para el arrendatario?",
+    "respuestas": [
+      "a) Afecta los ratios de solvencia de la empresa.",
+      "b) Se trata de un “producto abierto”.",
+      "c) No permite una mayor flexibilidad para adaptarse a la evolución tecnológica.",
+      "d) La cuota pagada es un gasto fiscalmente deducible en su totalidad."
+    ],
+    "correcta": "d) La cuota pagada es un gasto fiscalmente deducible en su totalidad."
+  },
+  {
+    "pregunta": "211. ¿Qué es el interés efectivo?",
+    "respuestas": [
+      "a) Es el beneficio neto de la empresa.",
+      "b) Es el activo de la empresa.",
+      "c) Devuelve la tasa efectiva del interés anual, si se conocen la tasa de interés anual nominal y el número de periodos de interés compuesto por año.",
+      "d) Determinara el pasivo de la empresa."
+    ],
+    "correcta": "c) Devuelve la tasa efectiva del interés anual, si se conocen la tasa de interés anual nominal y el número de periodos de interés compuesto por año."
+  },
+  {
+    "pregunta": "212. Marque la respuesta correcta:",
+    "respuestas": [
+      "a) El argumento núm_per_trimestre se trunca a entero.",
+      "b) Si uno de los argumentos no es numérico, INT. NOMINATIVO devuelve el valor de error #¡VALOR!",
+      "c) Si el argumento int_nominal ≤1000 o o si el argumento núm_per_año < 1, INT. NOMINAL devuelve el valor de error #¡NUM!",
+      "d) Si el argumento int_nominal ≤ 0 o si el argumento núm_per_año < 1, INT. EFECTIVO devuelve el valor de error #¡NUM!"
+    ],
+    "correcta": "d) Si el argumento int_nominal ≤ 0 o si el argumento núm_per_año < 1, INT. EFECTIVO devuelve el valor de error #¡NUM!"
+  },
+  {
+    "pregunta": "213. ¿Qué significa V.A.?",
+    "respuestas": [
+      "a) Valor actual.",
+      "b) Velocidad actual.",
+      "c) Valor del activo.",
+      "d) Velocidad del activo."
+    ],
+    "correcta": "a) Valor actual."
+  },
+  {
+    "pregunta": "214. Defina V.A.:",
+    "respuestas": [
+      "a) Es lo que determina nuestra posición empresarial.",
+      "b) Indicador de la situación porcentual en términos económicos.",
+      "c) Es el valor que tiene actualmente la suma de una serie de pagos que se efectuarán en el futuro.",
+      "d) Es la velocidad actual."
+    ],
+    "correcta": "c) Es el valor que tiene actualmente la suma de una serie de pagos que se efectuarán en el futuro."
+  },
+  {
+    "pregunta": "215. ¿Qué es la tasa?",
+    "respuestas": [
+      "a) El porcentaje de la producción.",
+      "b) Es la tasa de interés por período.",
+      "c) Es el número total de períodos de pago en una anualidad.",
+      "d) Es el pago efectuado en cada período, que no puede variar durante la anualidad."
+    ],
+    "correcta": "b) Es la tasa de interés por período."
+  },
+  {
+    "pregunta": "216. ¿Qué es el pago?",
+    "respuestas": [
+      "a) el momento que se efectúa el intercambio entre proveedores y clientes.",
+      "b) Es el ingreso.",
+      "c) Es el pago efectuado en cada período; debe permanecer constante durante la vida de la anualidad.",
+      "d) Es la tasa."
+    ],
+    "correcta": "c) Es el pago efectuado en cada período; debe permanecer constante durante la vida de la anualidad."
+  },
+  {
+    "pregunta": "217. ¿Qué significa VF?",
+    "respuestas": [
+      "a) Valor funcional.",
+      "b) Es el pago efectuado en cada período; debe permanecer constante durante la vida de la anualidad.",
+      "c) Es el valor futuro o un saldo en efectivo que desea lograr después de efectuar el último pago.",
+      "d) Es la tasa de interés por período."
+    ],
+    "correcta": "c) Es el valor futuro o un saldo en efectivo que desea lograr después de efectuar el último pago."
+  },
+  {
+    "pregunta": "218. ¿Qué es el tipo?",
+    "respuestas": [
+      "a) es el número 0 ó 1 e indica el vencimiento de los pagos.",
+      "b) Es el tipo de interés del préstamo.",
+      "c) Es el número total de pagos del préstamo.",
+      "d) Es el valor futuro o un saldo en efectivo que desea lograr después de efectuar el último pago."
+    ],
+    "correcta": "a) es el número 0 ó 1 e indica el vencimiento de los pagos."
+  },
+  {
+    "pregunta": "219. 9 Cual es el significado de VNA en excel",
+    "respuestas": [
+      "a) Valoración Neutral Actual",
+      "b) Valoración Neta Anticipada",
+      "c) Valor Natural Acumulado",
+      "d) Valor Actual Neto"
+    ],
+    "correcta": "d) Valor Actual Neto"
+  },
+  {
+    "pregunta": "220. El TIR...",
+    "respuestas": [
+      "a) Sus flujos de caja son siempre constantes.",
+      "b) Los flujos de caja no deben ocurrir en intervalos regulares.",
+      "c) Devuelve la tasa interna de retorno de los flujos de caja representados por los números del argumento valores."
+    ],
+    "correcta": "c) Devuelve la tasa interna de retorno de los flujos de caja representados por los números del argumento valores."
+  },
+  {
+    "pregunta": "221. ¿Qué objetivo tiene el canal de distribución?",
+    "respuestas": [
+      "a) Poner el producto a disposición del consumidor final o del comprador industrial, en la cantidad demandada, en el momento que lo necesite y en el lugar donde desee adquirirlo.",
+      "b) Vender el producto por debajo del precio de la competencia.",
+      "c) Ofrecer un servicio post-venta.",
+      "d) Determinar el público a que la empresa debe dirigirse."
+    ],
+    "correcta": "a) Poner el producto a disposición del consumidor final o del comprador industrial, en la cantidad demandada, en el momento que lo necesite y en el lugar donde desee adquirirlo."
+  },
+  {
+    "pregunta": "222. ¿Qué funciones realizan los intermediarios que forman parte del canal de distribución?",
+    "respuestas": [
+      "a) Creación de surtido.",
+      "b) Prestación de servicios y desarrollo de actividades comerciales.",
+      "c) Movimiento físico del producto.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": "d) Todas las respuestas anteriores son correctas."
+  },
+  {
+    "pregunta": "223. ¿Qué sabes de los minoristas o detallistas?",
+    "respuestas": [
+      "a) Se suelen especializar en determinados productos.",
+      "b) Son negocios independientes que operan con una marca concreta de producto.",
+      "c) Operan puntos de venta que están en contacto directo con el consumidor. Pueden clasificarse según el tipo de productos que venden.",
+      "d) Almacenan diversos productos de distintos fabricantes."
+    ],
+    "correcta": "c) Operan puntos de venta que están en contacto directo con el consumidor. Pueden clasificarse según el tipo de productos que venden."
+  },
+  {
+    "pregunta": "224. ¿Qué son los mayoristas?",
+    "respuestas": [
+      "a) Los líderes del mercado.",
+      "b) Los trabajadores que transportan el producto final.",
+      "c) Son los que almacenan diversos productos de distintos fabricantes. Su función es la de vender a los minoristas.",
+      "d) Son negocios independientes que operan con una marca concreta de producto."
+    ],
+    "correcta": "c) Son los que almacenan diversos productos de distintos fabricantes. Su función es la de vender a los minoristas."
+  },
+  {
+    "pregunta": "225. ¿Qué es una franquicia?",
+    "respuestas": [
+      "a) Es un negocio independiente que opera con una marca concreta de producto (habitualmente un servicio) a cambio del pago se una licencia de un porcentaje de las ventas.",
+      "b) Muchas empresas juntas con un mismo objetivo.",
+      "c) Es cuando una empresa tiene una marca paraguas.",
+      "d) Es una situación que se da cuando las empresas tienen perdidas."
+    ],
+    "correcta": "a) Es un negocio independiente que opera con una marca concreta de producto (habitualmente un servicio) a cambio del pago se una licencia de un porcentaje de las ventas."
+  },
+  {
+    "pregunta": "226. ¿Qué son los agentes?",
+    "respuestas": [
+      "a) Los agentes son las personas que poseen mas de un 5% de las acciones de la empresa.",
+      "b) Los agentes venden productos de los fabricantes (o servicios) a cambio de una comisión (porcentaje de los ingresos por ventas).",
+      "c) Es la competencia de la empresa.",
+      "d) Los agentes compran productos de los proveedores."
+    ],
+    "correcta": "b) Los agentes venden productos de los fabricantes (o servicios) a cambio de una comisión (porcentaje de los ingresos por ventas)."
+  },
+  {
+    "pregunta": "227. ¿Qué es el “marketing directo”?",
+    "respuestas": [
+      "a) Es vender por debajo del precio de coste.",
+      "b) Es vender en tiempo real.",
+      "c) Cuando un fabricante vende un producto directamente al cliente final, sin intermediarios, se habla de marketing directo.",
+      "d) Vender con la ayuda de dos intermediarios."
+    ],
+    "correcta": "c) Cuando un fabricante vende un producto directamente al cliente final, sin intermediarios, se habla de marketing directo."
+  },
+  {
+    "pregunta": "228. Si un productor de productos de consumo, utilizando su propia fuerza de venta, lleva su producto al punto de venta, sin la intervención de intermediarios, ¿qué tipo de distribución emplea?",
+    "respuestas": [
+      "a) Marketing directo.",
+      "b) Distribución mixta directa.",
+      "c) Distribución directa.",
+      "d) Distribución indirecta."
+    ],
+    "correcta": "c) Distribución directa."
+  },
+  {
+    "pregunta": "229. ¿Es importante la elección entre una distribución directa o indirecta?",
+    "respuestas": [
+      "a) Es mejor utilizar siempre la distribución indirecta.",
+      "b) Es clave en el diseño del canal de distribución y es un prototipo para las decisiones respecto al número de niveles.",
+      "c) Es mejor utilizar siempre la distribución directa.",
+      "d) No es importante."
+    ],
+    "correcta": "b) Es clave en el diseño del canal de distribución y es un prototipo para las decisiones respecto al número de niveles."
+  },
+  {
+    "pregunta": "230. ¿Cuándo será mejor utilizar una distribución directa?",
+    "respuestas": [
+      "a) Cuando los clientes están próximos geográficamente.",
+      "b) Es mejor utilizar siempre la distribución indirecta.",
+      "c) Siempre que los clientes estén muy dispersos.",
+      "d) Para los productos estandarizados, no tecnificados, susceptibles de ser almacenados."
+    ],
+    "correcta": "a) Cuando los clientes están próximos geográficamente."
+  },
+  {
+    "pregunta": "231. ¿Qué determina la decisión sobre de la intensidad de la distribución de un producto?",
+    "respuestas": [
+      "a) La cantidad que debemos producir.",
+      "b) El número de intermediarios que se utilizarán en cada nivel de canal de distribución.",
+      "c) La cantidad que debemos vender.",
+      "d) Determina el precio del producto final."
+    ],
+    "correcta": "b) El número de intermediarios que se utilizarán en cada nivel de canal de distribución."
+  },
+  {
+    "pregunta": "232. Qué significa la distribución intensiva?",
+    "respuestas": [
+      "a) Significa que el producto puede venderse en muchos puntos de venta del mercado para adquirir la máxima exposición al consumidor.",
+      "b) Esta distribución puede realizarse tanto para el nivel del mayorista como del detallista.",
+      "c) Significa que, en un determinado mercado, el producto sólo se encontrará en un único punto de venta.",
+      "d) Este tipo de distribución se corresponde con una mínima exposición del producto al mercado."
+    ],
+    "correcta": "a) Significa que el producto puede venderse en muchos puntos de venta del mercado para adquirir la máxima exposición al consumidor."
+  },
+  {
+    "pregunta": "233. Indique la descripción correcta acerca de la “distribución selectiva”:",
+    "respuestas": [
+      "a) Significa que se trata de hacer llegar el producto a todos los establecimientos que se correspondan con el tipo de tienda que se ha definido para el canal de distribución.",
+      "b) Esta distribución puede realizarse tanto para el nivel del mayorista como del detallista.",
+      "c) Significa que en cada área geográfica del producto se vende en un número limitado de mayoristas o detallistas que cumplen los requisitos del plan de comercialización.",
+      "d) Este tipo de distribución se corresponde con una mínima exposición del producto al mercado."
+    ],
+    "correcta": "c) Significa que en cada área geográfica del producto se vende en un número limitado de mayoristas o detallistas que cumplen los requisitos del plan de comercialización."
+  },
+  {
+    "pregunta": "234. Indique la definición correcta acerca del “diseño del producto”:",
+    "respuestas": [
+      "a) Cuanto mayor sea la necesidad de dar servicio al cliente, más probable es que el fabricante ofrezca una distribución selectiva/exclusiva.",
+      "b) La empresa desea ejercer su influencia sobre el precio de venta y evitar que se ofrezcan descuentos en la venta del producto.",
+      "c) La elección de adoptar una distribución intensiva requiere disponer de una cobertura promocional en muchos puntos de venta.",
+      "d) Cuanto más caro y complejo es el diseño de un producto, más probable es que sea necesaria una distribución selectiva/exclusiva."
+    ],
+    "correcta": "d) Cuanto más caro y complejo es el diseño de un producto, más probable es que sea necesaria una distribución selectiva/exclusiva."
+  },
+  {
+    "pregunta": "235. Selección de mayorista...",
+    "respuestas": [
+      "a) La decisión de intensidad de la distribución puede crear conflicto con las decisiones relativas a la selección de mayoristas.",
+      "b) Una distribución intensiva no suele ser consistente con una directa.",
+      "c) Es incluso más acusado si se tiene en cuenta su cada vez mayor poder.",
+      "d) Hace referencia a los mecanismos que se utilizan para repartir la responsabilidad de la relación de las diversas tareas comerciales por parte del canal."
+    ],
+    "correcta": "a) La decisión de intensidad de la distribución puede crear conflicto con las decisiones relativas a la selección de mayoristas."
+  },
+  {
+    "pregunta": "236. ¿Cuál es la frecuencia de compra?",
+    "respuestas": [
+      "a) Si la compra de un producto se realiza con frecuencia, la distribución habría de ser más intensiva.",
+      "b) Dependerá del poder adquisitivo de cada consumidor.",
+      "c) La frecuencia es nula.",
+      "d) La frecuencia de compra será mucho más pronunciada a principios de mes, ya que es cuando la gente tiene más poder adquisitivo."
+    ],
+    "correcta": "a) Si la compra de un producto se realiza con frecuencia, la distribución habría de ser más intensiva."
+  },
+  {
+    "pregunta": "237. ¿Qué tipo de necesidades puede tener el distribuidor?",
+    "respuestas": [
+      "a) En la mayoría de los casos los distribuidores prefieren una distribución selectiva o exclusiva debido a que ambas limitan la competencia a la que deberán hacer frente.",
+      "b) No tienen necesidades los distribuidores.",
+      "c) Necesidad de tener un día a la semana fiesta.",
+      "d) Prefieren una distribución total, es decir, distribuidores existentes."
+    ],
+    "correcta": "a) En la mayoría de los casos los distribuidores prefieren una distribución selectiva o exclusiva debido a que ambas limitan la competencia a la que deberán hacer frente."
+  },
+  {
+    "pregunta": "238. indique la respuesta correcta: “Los sistemas administrados...”",
+    "respuestas": [
+      "a) Este tipo de sistemas es el más parecido al canal convencional.",
+      "b) Es un sistema más formalizado que el de tipo “administrado”.",
+      "c) Probablemente es el sistema vertical de comercialización que se está extendiendo con más rapidez en los últimos tiempos.",
+      "d) Utiliza la fórmula de contratos para asegurar el compromiso en la ejecución del programa comercial."
+    ],
+    "correcta": "c) Probablemente es el sistema vertical de comercialización que se está extendiendo con más rapidez en los últimos tiempos."
+  },
+  {
+    "pregunta": "239. Señale la ventaja que pueden tener los sistemas verticales de comercialización:",
+    "respuestas": [
+      "a) Control comercial.",
+      "b) Economías de distribución.",
+      "c) Incertidumbres del entorno.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas."
+  },
+  {
+    "pregunta": "240. ¿Qué desventaja pueden suponer los sistemas verticales de comercialización?",
+    "respuestas": [
+      "a) Incertidumbres del entorno.",
+      "b) Falta de incentivo.",
+      "c) Control comercial.",
+      "d) Economías de distribución."
+    ],
+    "correcta": "b) Falta de incentivo."
+  }
+]
