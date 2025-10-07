@@ -2,12 +2,25 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     display: flex;
     justify-content: center;
+    align-items: center;
     min-height: 100vh;
     background-color: #2e2e2e;
     margin: 0;
     color: #e0e0e0;
-    padding: 2rem 0 120px 0;
+    padding: 1rem 0;
     box-sizing: border-box;
+}
+
+.main-content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body.quiz-activo {
+    align-items: flex-start;
+    padding-bottom: 120px;
 }
 
 /* === PANTALLA DE INICIO === */
@@ -55,9 +68,8 @@ body {
     border-color: #007aff;
 }
 
-/* === CLASE PARA OCULTAR ELEMENTOS === */
 .hidden {
-    display: none;
+    display: none !important;
 }
 
 /* === CONTENEDOR DEL EXAMEN === */
@@ -157,19 +169,22 @@ body {
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
+    flex-wrap: nowrap;
 }
 
 .pregunta-info {
     color: #a0a0a0;
     font-size: 0.9em;
     white-space: nowrap;
+    flex-shrink: 0;
 }
 
 .navigation-buttons {
     display: flex;
     gap: 0.5rem;
-    flex-wrap: wrap;
     justify-content: flex-end;
+    flex-grow: 1;
+    min-width: 0;
 }
 
 .nav-btn {
@@ -185,7 +200,9 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    flex-shrink: 1;
 }
+
 
 .nav-btn:hover:not(:disabled) {
     background-color: #555;
@@ -228,10 +245,9 @@ body {
     height: 16px;
 }
 
-/* === NUEVOS ESTILOS PARA MÓVILES (DISEÑO ADAPTATIVO) === */
+/* === ESTILOS PARA MÓVILES (DISEÑO ADAPTATIVO) === */
 @media (max-width: 768px) {
-    body {
-        /* Reducimos el padding en pantallas pequeñas para dar más espacio */
+    body.quiz-activo {
         padding: 1rem 0 100px 0;
     }
 
@@ -243,33 +259,35 @@ body {
     }
     
     .pregunta-header h1 {
-        font-size: 1.4rem; /* Texto de la pregunta más pequeño */
+        font-size: 1.4rem;
     }
 
     .respuesta-btn {
         padding: 1rem;
-        font-size: 0.95rem; /* Texto de las respuestas más pequeño */
+        font-size: 0.95rem;
     }
 
     .quiz-footer {
-        padding: 0.5rem 0; /* Footer menos alto */
+        padding: 0.5rem 0;
     }
 
     .footer-content {
-        gap: 0.5rem; /* Menos espacio entre elementos del footer */
+        gap: 0.5rem;
     }
 
     .pregunta-info {
-        font-size: 0.75em; /* Texto del contador más pequeño */
+        display: none;
     }
 
     .nav-btn {
-        padding: 0.4rem 0.6rem; /* Botones más pequeños */
-        font-size: 0.75em;
+        padding: 0.6rem;
+        font-size: 0.8em;
         gap: 0.25rem;
+        flex-grow: 1;
+        justify-content: center;
     }
 
     .nav-btn span {
-        font-size: 1rem; /* Flechas más pequeñas */
+        font-size: 1rem;
     }
 }

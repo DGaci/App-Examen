@@ -1,7 +1,7 @@
 // --- Elementos del DOM ---
 const startContainer = document.getElementById('start-container');
 const quizContainer = document.getElementById('quiz-container');
-const quizFooter = document.getElementById('quiz-footer'); // <-- Añadido
+const quizFooter = document.getElementById('quiz-footer');
 const startRepasoBtn = document.getElementById('start-repaso-btn');
 const startExamenBtn = document.getElementById('start-examen-btn');
 
@@ -14,7 +14,6 @@ const verPendientesBtn = document.getElementById('ver-pendientes-btn');
 const finalizarBtn = document.getElementById('finalizar-btn');
 const feedbackDiv = document.getElementById('feedback');
 const preguntaNumeroDiv = document.getElementById('pregunta-numero');
-const preguntaCodigoDiv = document.getElementById('pregunta-codigo');
 const pendientesCountSpan = document.getElementById('pendientes-count');
 
 // --- Estado de la Aplicación ---
@@ -36,6 +35,8 @@ fetch('preguntas.json')
 
 // --- Lógica de Inicio del Juego ---
 function startGame(mode) {
+    document.body.classList.add('quiz-activo');
+    
     let preguntasOriginales = [...todasLasPreguntas];
     let preguntasMezcladas = preguntasOriginales.sort(() => Math.random() - 0.5);
 
@@ -54,7 +55,7 @@ function startGame(mode) {
     preguntaActualIndex = 0;
     startContainer.classList.add('hidden');
     quizContainer.classList.remove('hidden');
-    quizFooter.classList.remove('hidden'); // <-- Añadido: Muestra el footer
+    quizFooter.classList.remove('hidden');
 
     mostrarPregunta();
 }
@@ -73,13 +74,6 @@ function mostrarPregunta() {
     
     preguntaTexto.textContent = pregunta.pregunta;
     preguntaNumeroDiv.textContent = `Pregunta ${preguntaActualIndex + 1} / ${preguntas.length}`;
-    
-    if (pregunta.tema) {
-        preguntaCodigoDiv.textContent = pregunta.tema;
-        preguntaCodigoDiv.style.display = 'inline';
-    } else {
-        preguntaCodigoDiv.style.display = 'none';
-    }
     
     marcarPendienteBtn.classList.toggle('active', pregunta.marcadaPendiente);
     actualizarContadorPendientes();

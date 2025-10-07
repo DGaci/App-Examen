@@ -8,39 +8,38 @@
 </head>
 <body>
 
-    <div class="start-container" id="start-container">
-        <h1>Bienvenido a tu Práctica de Examen</h1>
-        <p>Selecciona un modo para comenzar:</p>
-        <div class="start-buttons">
-            <button id="start-repaso-btn" class="start-btn">Repaso Aleatorio (Todas las preguntas)</button>
-            <button id="start-examen-btn" class="start-btn">Modo Examen (40 preguntas al azar)</button>
-        </div>
-    </div>
-
-    <div class="quiz-container hidden" id="quiz-container">
-        <div class="pregunta-header">
-            <h1 id="pregunta-texto">Cargando pregunta...</h1>
-        </div>
-        
-        <div id="respuestas-container" class="respuestas-grid">
+    <div class="main-content">
+        <div class="start-container" id="start-container">
+            <h1>Bienvenido a tu Práctica de Examen</h1>
+            <p>Selecciona un modo para comenzar:</p>
+            <div class="start-buttons">
+                <button id="start-repaso-btn" class="start-btn">Repaso Aleatorio (Todas las preguntas)</button>
+                <button id="start-examen-btn" class="start-btn">Modo Examen (40 preguntas al azar)</button>
             </div>
+        </div>
 
-        <div id="feedback" class="feedback-message"></div>
+        <div class="quiz-container hidden" id="quiz-container">
+            <div class="pregunta-header">
+                <h1 id="pregunta-texto">Cargando pregunta...</h1>
+            </div>
+            <div id="respuestas-container" class="respuestas-grid"></div>
+            <div id="feedback" class="feedback-message"></div>
+        </div>
     </div>
     
     <div class="quiz-footer hidden" id="quiz-footer">
         <div class="footer-content">
             <div class="pregunta-info">
-                <span id="pregunta-numero">Pregunta 0 / 0</span> | <span id="pregunta-codigo"></span>
+                <span id="pregunta-numero">Pregunta 0 / 0</span>
             </div>
             <div class="navigation-buttons">
-                <button id="anterior-btn" class="nav-btn"><span>&#9664;&#9664;</span> Anterior</button>
+                <button id="anterior-btn" class="nav-btn"><span>&#9664;&#9664;</span> Ant</button>
                 <button id="marcar-pendiente-btn" class="nav-btn marcar-pendiente">
-                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktYm9va21hcmstZmlsbCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMyAyYS0yIDIgMCAwIDEtMi0yIDIgMiAwIDAgMSAyLTJoMTBhMiAyIDAgMCAxIDIgMnYxMmwtNS0zLTVBMiAyIDAgMCAxIDMgMnoiLz4KPC9zdmc+" alt="Marcar"> Marcar pendiente (<span id="pendientes-count">0</span>)
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktYm9va21hcmstZmlsbCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMyAyYS0yIDIgMCAwIDEtMi0yIDIgMiAwIDAgMSAyLTJoMTBhMiAyIDAgMCAxIDIgMnYxMmwtNS0zLTVBMiAyIDAgMCAxIDMgMnoiLz4KPC9zdmc+" alt="Marcar"> Pendiente (<span id="pendientes-count">0</span>)
                 </button>
-                <button id="ver-pendientes-btn" class="nav-btn">Ver pendientes</button>
-                <button id="finalizar-btn" class="nav-btn finalizar">Finalizar (F)</button>
-                <button id="siguiente-btn" class="nav-btn">Siguiente <span>&#9654;&#9654;</span></button>
+                <button id="ver-pendientes-btn" class="nav-btn">Ver</button>
+                <button id="finalizar-btn" class="nav-btn finalizar">Fin (F)</button>
+                <button id="siguiente-btn" class="nav-btn">Sig <span>&#9654;&#9654;</span></button>
             </div>
         </div>
     </div>
