@@ -28,6 +28,7 @@ body {
     margin-bottom: 1.5rem;
 }
 
+
 .respuestas-grid {
     display: grid;
     grid-template-columns: 1fr;
@@ -159,4 +160,54 @@ body {
     filter: invert(100%);
     width: 16px;
     height: 16px;
+}
+
+/* === ESTILOS PARA LA PANTALLA DE INICIO === */
+.start-container {
+    background: #1e1e1e;
+    padding: 3rem;
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+    text-align: center;
+    width: 90%;
+    max-width: 600px;
+}
+
+.start-container h1 {
+    margin-top: 0;
+    color: #f0f0f0;
+}
+
+.start-container p {
+    font-size: 1.2rem;
+    color: #a0a0a0;
+    margin-bottom: 2rem;
+}
+
+.start-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.start-btn {
+    padding: 1.2rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border: 1px solid #444;
+    border-radius: 12px;
+    background-color: #333;
+    color: #e0e0e0;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.start-btn:hover {
+    background-color: #007aff;
+    border-color: #007aff;
+}
+
+/* === CLASE PARA OCULTAR ELEMENTOS === */
+.hidden {
+    display: none;
 }

@@ -7,7 +7,17 @@
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-    <div class="quiz-container">
+
+    <div class="start-container" id="start-container">
+        <h1>Bienvenido a tu Práctica de Examen</h1>
+        <p>Selecciona un modo para comenzar:</p>
+        <div class="start-buttons">
+            <button id="start-repaso-btn" class="start-btn">Repaso Aleatorio (Todas las preguntas)</button>
+            <button id="start-examen-btn" class="start-btn">Modo Examen (40 preguntas al azar)</button>
+        </div>
+    </div>
+
+    <div class="quiz-container hidden" id="quiz-container">
         <div class="pregunta-header">
             <h1 id="pregunta-texto">Cargando pregunta...</h1>
         </div>
