@@ -263,9 +263,9 @@
       "a) Tipo de sistema económico",
       "b) Disponibilidad del factor trabajo",
       "c) Nivel de salarios",
-      "d) Estado del comercio exterior7"
+      "d) Estado del comercio exterior"
     ],
-    "correcta": "d) Estado del comercio exterior7"
+    "correcta": "d) Estado del comercio exterior"
   },
   {
     "pregunta": "28. Un modo de empezar a hacer explícita la misión es...",
@@ -387,7 +387,7 @@
     "correcta": "b) Sirve para conocer en profundidad las características estructurales que determinan la competencia en un sector."
   },
   {
-    "pregunta": "40. ¿Cuáles son las dos dimensiones más utilizadas para la elaboración de un mapa estratégico??",
+    "pregunta": "40. ¿Cuáles son las dos dimensiones más utilizadas para la elaboración de un mapa estratégico?",
     "respuestas": [
       "a) La amplitud de la línea de productos que ofrece la empresa y el grado de integración vertical.",
       "b) Sus productos y la calidad.",
@@ -409,7 +409,10 @@
   {
     "pregunta": "42. En el monopolio...",
     "respuestas": [
-      "a) No hay barreras"
+      "a) No hay barreras",
+      "b) Nos encontramos con barreras altas",
+      "c) Es una situación donde las barreras son muy significativas",
+      "d) Ninguna de las anteriores es correcta."
     ],
     "correcta": "a) No hay barreras"
   },
@@ -547,7 +550,9 @@
     "pregunta": "56. ¿Qué es un organigrama?",
     "respuestas": [
       "a) Una descripción total de la organización",
-      "b) Un conjunto de elementos iguales"
+      "b) Un conjunto de elementos iguales",
+      "c) Es una representación en la cual podemos apreciar que en una empresa no existen posiciones de autoridad sino que existen líderes.",
+      "d) Define la estructura organizativa de la parte directiva de la empresa."
     ],
     "correcta": "a) Una descripción total de la organización"
   },
@@ -684,7 +689,10 @@
   {
     "pregunta": "70. ¿Por qué está compuesto el periodo de Maduración financiero (PMF)?",
     "respuestas": [
-      "a) PMC."
+      "a) PMC.",
+      "b) PMR.",
+      "c) PMI.",
+      "d) PMI."
     ],
     "correcta": "a) PMC."
   },
@@ -1897,7 +1905,9 @@
     "pregunta": "192. Defina “aspectos cualitativos”:",
     "respuestas": [
       "a) Permiten hacer cálculos como el coste de adquisición.",
-      "b) Son las particularidades de los proyectos de inversión que no pueden ser valorados económicamente, pero que es necesario tener en cuenta."
+      "b) Son las particularidades de los proyectos de inversión que no pueden ser valorados económicamente, pero que es necesario tener en cuenta.",
+      "c) Permiten hacer cálculos como la producción que se obtiene.",
+      "d) Permiten hacer cálculos como el coste de funcionamiento."
     ],
     "correcta": "b) Son las particularidades de los proyectos de inversión que no pueden ser valorados económicamente, pero que es necesario tener en cuenta."
   },
@@ -2160,7 +2170,7 @@
     "correcta": "a) es el número 0 ó 1 e indica el vencimiento de los pagos."
   },
   {
-    "pregunta": "219. 9 Cual es el significado de VNA en excel",
+    "pregunta": "219. ¿Cual es el significado de VNA en excel?",
     "respuestas": [
       "a) Valoración Neutral Actual",
       "b) Valoración Neta Anticipada",
