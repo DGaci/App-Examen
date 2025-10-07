@@ -10,11 +10,13 @@
 
     <div class="main-content">
         <div class="start-container" id="start-container">
-            <h1>Bienvenido a tu Práctica de Examen</h1>
+            <h1>Bienvenido, <span id="user-name"></span>, a tu Práctica de Examen</h1>
             <p>Selecciona un modo para comenzar:</p>
             <div class="start-buttons">
                 <button id="start-repaso-btn" class="start-btn">Repaso Aleatorio (Todas las preguntas)</button>
                 <button id="start-examen-btn" class="start-btn">Modo Examen (40 preguntas al azar)</button>
+                <button id="start-errores-btn" class="start-btn modo-errores">🔁 Repasar solo Errores</button>
+                <button id="ver-stats-btn" class="start-btn modo-stats">📊 Ver Estadísticas</button>
             </div>
         </div>
 
@@ -24,6 +26,24 @@
             </div>
             <div id="respuestas-container" class="respuestas-grid"></div>
             <div id="feedback" class="feedback-message"></div>
+        </div>
+
+        <div class="stats-container hidden" id="stats-container">
+            <h2>Tus Estadísticas</h2>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <h3>Preguntas Respondidas</h3>
+                    <p id="stats-respondidas">0 / 240</p>
+                </div>
+                <div class="stat-item">
+                    <h3>Porcentaje Correcto</h3>
+                    <p id="stats-porcentaje">0%</p>
+                </div>
+            </div>
+            <h3>Preguntas a Repasar (Incorrectas)</h3>
+            <ul id="stats-lista-errores">
+                </ul>
+            <button id="volver-menu-btn" class="start-btn">Volver al Menú</button>
         </div>
     </div>
     
@@ -35,7 +55,7 @@
             <div class="navigation-buttons">
                 <button id="anterior-btn" class="nav-btn"><span>&#9664;&#9664;</span> Ant</button>
                 <button id="marcar-pendiente-btn" class="nav-btn marcar-pendiente">
-                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktYm9va21hcmstZmlsbCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMyAyYS0yIDIgMCAwIDEtMi0yIDIgMiAwIDAgMSAyLTJoMTBhMiAyIDAgMCAxIDIgMnYxMmwtNS0zLTVBMiAyIDAgMCAxIDMgMnoiLz4KPC9zdmc+" alt="Marcar"> Pendiente (<span id="pendientes-count">0</span>)
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZHRoPSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktYm9va21hcmstZmlsbCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMyAyYS0yIDIgMCAwIDEtMi0yIDIgMiAwIDAgMSAyLTJoMTBhMiAyIDAgMCAxIDIgMnYxMmwtNS0zLTVBMiAyIDAgMCAxIDMgMnoiLz4KPC9zdmc+" alt="Marcar"> Pendiente (<span id="pendientes-count">0</span>)
                 </button>
                 <button id="ver-pendientes-btn" class="nav-btn">Ver</button>
                 <button id="finalizar-btn" class="nav-btn finalizar">Fin (F)</button>

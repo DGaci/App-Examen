@@ -64,9 +64,10 @@
     "respuestas": [
       "a) Formulación.",
       "b) Comunicación.",
-      "c) Motivación."
+      "c) Motivación.",
+      "d) Todas las respuestas son correctas."
     ],
-    "correcta": "a) Formulación."
+    "correcta": "d) Todas las respuestas son correctas."
   },
   {
     "pregunta": "8. Las teorías o modelos para explicar las organizaciones son:",
@@ -133,9 +134,10 @@
     "respuestas": [
       "a) Filosóficos.",
       "b) Culturales.",
-      "c) Autodeterminación."
+      "c) Autodeterminación.",
+      "d) Sociales."
     ],
-    "correcta": "c) Autodeterminación."
+    "correcta": "d) Sociales."
   },
   {
     "pregunta": "15. Defina “categorización abierta”:",
@@ -145,7 +147,7 @@
       "c) Es una teoría que está conectada con una concepción del ser humano.",
       "d) El propio Maslow reconoce las limitaciones de este modelo ya que no se explica bien la aparición de la motivación de las personas."
     ],
-    "correcta": "c) Es una teoría que está conectada con una concepción del ser humano."
+    "correcta": "d) El propio Maslow reconoce las limitaciones de este modelo ya que no se explica bien la aparición de la motivación de las personas."
   },
   {
     "pregunta": "16. ¿Qué es la teoría X y Teoría Y (McGregor)?",
@@ -440,7 +442,7 @@
     "pregunta": "45. ¿De que modo pueden tener poder los compradores?",
     "respuestas": [
       "a) Depende del numero de compradores importantes y de la rentabilidad",
-      "b) Dependiendo de los costes totales del sector contribuido por los proveedores.",
+      "b) Dependiendo de los costes totais do sector contribuído polos provedores.",
       "c) Por la diferenciación",
       "d) Todas las anteriores son correctas"
     ],
@@ -607,7 +609,7 @@
     "correcta": "a) Una organización de personas."
   },
   {
-    "pregunta": "62. ¿Por qué esta compuesto el subsistema de las funciones básicas?",
+    "pregunta": "62. ¿Por qué esta composto o subsistema das funcións básicas?",
     "respuestas": [
       "a) Operaciones.",
       "b) Inversión/Financiación.",
@@ -687,14 +689,14 @@
     "correcta": "b) Número de días que en media se tarda en pagar las deudas a los proveedores."
   },
   {
-    "pregunta": "70. ¿Por qué está compuesto el periodo de Maduración financiero (PMF)?",
+    "pregunta": "70. ¿Por qué está compuesto el período de Maduración financiero (PMp)?",
     "respuestas": [
-      "a) PMC.",
-      "b) PMR.",
+      "a) PMc.",
+      "b) PMr.",
       "c) PMI.",
-      "d) PMI."
+      "d) PMi."
     ],
-    "correcta": "a) PMC."
+    "correcta": "a) PMc."
   },
   {
     "pregunta": "71. Los objetivos a alcanzar por el subsistema de operaciones de una empresa se suelen concretar en los siguientes aspectos:",
@@ -806,7 +808,7 @@
     "correcta": "b) La fabricación de los productos o servicios de la empresa."
   },
   {
-    "pregunta": "82. ¿Por qué están compuestos los Inputs?",
+    "pregunta": "82. ¿Por qué están compostos os Inputs?",
     "respuestas": [
       "a) Materiales, Mano de Obra, Capital , Energía, Información, Tecnología.",
       "b) Por productos.",
@@ -816,11 +818,12 @@
     "correcta": "a) Materiales, Mano de Obra, Capital , Energía, Información, Tecnología."
   },
   {
-    "pregunta": "83. ¿De qué forman los outputs?",
+    "pregunta": "83. ¿De que forman os outputs?",
     "respuestas": [
       "a) De materiales muy complejos.",
       "b) Productos y servicios.",
-      "c) De mano de obra poco cualificada."
+      "c) De mano de obra poco cualificada.",
+      "d) Materiales."
     ],
     "correcta": "b) Productos y servicios."
   },
@@ -1060,7 +1063,7 @@
       "a) Se transforma en un flujo continuo de producción cuando se eliminan los tiempos ociosos y de espera de forma que siempre se están ejecutando las mismas operaciones.",
       "b) Se trata de fabricar lotes de un gran número de unidades, pero de productos poco diferentes y técnicamente homogéneos, usando para ello las mismas instalaciones.",
       "c) Se producen lotes pequeños de una amplia variedad de productos de poca o nula estandarización.",
-      "d) La especialización de los trabajadores es también mayor realizando cada uno de ellos la misma función, aunque pueda consistir en varias operaciones."
+      "d) La especialización de los trabajadores es también mayor realizando cada uno de ellos la misma función, aunque possa consistir en varias operaciones."
     ],
     "correcta": "b) Se trata de fabricar lotes de un gran número de unidades, pero de productos poco diferentes y técnicamente homogéneos, usando para ello las mismas instalaciones."
   },
@@ -1447,7 +1450,7 @@
   {
     "pregunta": "146. ¿Para qué sirve el packaging?",
     "respuestas": [
-      "a) Para ajustar a las normas legales y de protección el producto.",
+      "a) Para ajustar a las normas legais e de protección o produto.",
       "b) Servir de instrumento de comunicación y diferenciación.",
       "c) Proporcionar información complementaria.",
       "d) Todas las anteriores son correctas."
@@ -1768,7 +1771,8 @@
     "respuestas": [
       "a) Cuanto más complejo es el producto desde el punto de vista del comprador, más importante es la venta personal como elemento promocional.",
       "b) Las promociones de venta no son importantes para este tipo de productos.",
-      "c) Son productos en vías de desarrollo."
+      "c) Son productos en vías de desarrollo.",
+      "d) Son los productos que no necesitan publicidad, ya que por naturaleza la gente comprara siempre el producto genérico."
     ],
     "correcta": "a) Cuanto más complejo es el producto desde el punto de vista del comprador, más importante es la venta personal como elemento promocional."
   },
@@ -1976,7 +1980,8 @@
     "respuestas": [
       "a) Determina el rendimiento neto de un proyecto en términos absolutos.",
       "b) Determina el rendimiento bruto de un proyecto en términos porcentuales.",
-      "c) Es la tasa de rendimiento propia del proyecto."
+      "c) Es la tasa de rendimiento propia del proyecto.",
+      "d) Una vez calculada hay que recurrir a la subjetividad para poder compararla con algún estándar aceptable."
     ],
     "correcta": "a) Determina el rendimiento neto de un proyecto en términos absolutos."
   },
@@ -2045,7 +2050,8 @@
     "respuestas": [
       "a) Es un mercado organizado que centraliza la oferta demanda de los valores admitidos de cotización.",
       "b) En el mercado de valores donde sólo se negocian acciones.",
-      "c) Trata de un mercado primario y no oficial."
+      "c) Trata de un mercado primario y no oficial.",
+      "d) Todas las respuestas anteriores son correctas."
     ],
     "correcta": "a) Es un mercado organizado que centraliza la oferta demanda de los valores admitidos de cotización."
   },
