@@ -1,12 +1,12 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     display: flex;
-    justify-content: center; /* Centra el contenido horizontalmente */
+    justify-content: center;
     min-height: 100vh;
     background-color: #2e2e2e;
     margin: 0;
     color: #e0e0e0;
-    padding: 2rem 0 120px 0; /* Espacio arriba y abajo (para el footer fijo) */
+    padding: 2rem 0 120px 0;
     box-sizing: border-box;
 }
 
@@ -71,7 +71,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    margin: 0; /* Asegura que no haya márgenes por defecto */
+    margin: 0;
 }
 
 .pregunta-header h1 {
@@ -226,4 +226,50 @@ body {
     filter: invert(100%);
     width: 16px;
     height: 16px;
+}
+
+/* === NUEVOS ESTILOS PARA MÓVILES (DISEÑO ADAPTATIVO) === */
+@media (max-width: 768px) {
+    body {
+        /* Reducimos el padding en pantallas pequeñas para dar más espacio */
+        padding: 1rem 0 100px 0;
+    }
+
+    .quiz-container {
+        padding: 1.5rem;
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+    }
+    
+    .pregunta-header h1 {
+        font-size: 1.4rem; /* Texto de la pregunta más pequeño */
+    }
+
+    .respuesta-btn {
+        padding: 1rem;
+        font-size: 0.95rem; /* Texto de las respuestas más pequeño */
+    }
+
+    .quiz-footer {
+        padding: 0.5rem 0; /* Footer menos alto */
+    }
+
+    .footer-content {
+        gap: 0.5rem; /* Menos espacio entre elementos del footer */
+    }
+
+    .pregunta-info {
+        font-size: 0.75em; /* Texto del contador más pequeño */
+    }
+
+    .nav-btn {
+        padding: 0.4rem 0.6rem; /* Botones más pequeños */
+        font-size: 0.75em;
+        gap: 0.25rem;
+    }
+
+    .nav-btn span {
+        font-size: 1rem; /* Flechas más pequeñas */
+    }
 }

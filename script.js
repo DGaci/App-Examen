@@ -1,6 +1,7 @@
 // --- Elementos del DOM ---
 const startContainer = document.getElementById('start-container');
 const quizContainer = document.getElementById('quiz-container');
+const quizFooter = document.getElementById('quiz-footer'); // <-- Añadido
 const startRepasoBtn = document.getElementById('start-repaso-btn');
 const startExamenBtn = document.getElementById('start-examen-btn');
 
@@ -17,13 +18,12 @@ const preguntaCodigoDiv = document.getElementById('pregunta-codigo');
 const pendientesCountSpan = document.getElementById('pendientes-count');
 
 // --- Estado de la Aplicación ---
-let todasLasPreguntas = []; // Almacenará las 240 preguntas originales
-let preguntas = []; // Las preguntas para la partida actual (repaso o examen)
+let todasLasPreguntas = [];
+let preguntas = [];
 let preguntaActualIndex = 0;
 let modoPendientes = false;
 
 // --- Carga y Preparación de Datos ---
-// Cargamos las preguntas del JSON en cuanto la página se abre
 fetch('preguntas.json')
     .then(res => res.json())
     .then(data => {
@@ -36,33 +36,30 @@ fetch('preguntas.json')
 
 // --- Lógica de Inicio del Juego ---
 function startGame(mode) {
-    // 1. Preparar el set de preguntas
-    let preguntasOriginales = [...todasLasPreguntas]; // Clonamos para no modificar el original
+    let preguntasOriginales = [...todasLasPreguntas];
     let preguntasMezcladas = preguntasOriginales.sort(() => Math.random() - 0.5);
 
     if (mode === 'examen') {
-        preguntas = preguntasMezcladas.slice(0, 40); // Cogemos solo 40
-    } else { // modo 'repaso'
+        preguntas = preguntasMezcladas.slice(0, 40);
+    } else {
         preguntas = preguntasMezcladas;
     }
 
-    // 2. Añadir estado inicial a las preguntas de esta partida
     preguntas = preguntas.map(q => ({
         ...q,
         respuestaUsuario: null,
         marcadaPendiente: false
     }));
 
-    // 3. Resetear contadores y mostrar la pantalla del examen
     preguntaActualIndex = 0;
     startContainer.classList.add('hidden');
     quizContainer.classList.remove('hidden');
-    
-    // 4. Mostrar la primera pregunta
+    quizFooter.classList.remove('hidden'); // <-- Añadido: Muestra el footer
+
     mostrarPregunta();
 }
 
-// --- Lógica Principal del Examen (casi igual que antes) ---
+// --- Lógica Principal del Examen ---
 function mostrarPregunta() {
     if (preguntas.length === 0) return;
 
@@ -174,7 +171,6 @@ finalizarBtn.addEventListener('click', () => {
     const correctas = preguntas.filter(p => p.respuestaUsuario === p.correcta).length;
     
     if (confirm(`Has respondido ${respondidas} de ${preguntas.length} preguntas.\nCorrectas: ${correctas}\n\n¿Deseas finalizar y volver al inicio?`)) {
-        // Recargar la página es la forma más fácil de volver al menú principal
         location.reload();
     }
 });
